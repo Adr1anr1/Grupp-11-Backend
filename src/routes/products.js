@@ -19,7 +19,10 @@ const productsJSON = JSON.parse(
 // Get all products (öppet för alla)
 router.get("/", async (req, res) => {
   try {
-    const products = await Product.find().populate("kategorier", "namn");
+    const products = await Product.find()
+      .populate("kategorier", "namn")
+      .populate("varumarke", "namn")
+      .populate("leverantor", "namn");
     res.json(products);
   } catch (error) {
     res.status(500).json({ error: error.message });
@@ -29,7 +32,10 @@ router.get("/", async (req, res) => {
 // Get single product (öppet för alla)
 router.get("/:id", async (req, res) => {
   try {
-    const product = await Product.findById(req.params.id).populate("kategorier", "namn");
+    const product = await Product.findById(req.params.id)
+      .populate("kategorier", "namn")
+      .populate("varumarke", "namn")
+      .populate("leverantor", "namn");
     if (!product) {
       return res.status(404).json({ error: "Produkten hittades inte." });
     }
@@ -49,7 +55,14 @@ router.post("/", auth, adminAuth, async (req, res) => {
 
     const product = new Product(req.body);
     await product.save();
-    res.status(201).json(product);
+    
+    // Populera referenser innan vi skickar tillbaka produkten
+    const populatedProduct = await Product.findById(product._id)
+      .populate("kategorier", "namn")
+      .populate("varumarke", "namn")
+      .populate("leverantor", "namn");
+      
+    res.status(201).json(populatedProduct);
   } catch (error) {
     res.status(400).json({ error: error.message });
   }
@@ -67,7 +80,9 @@ router.put("/:id", auth, adminAuth, async (req, res) => {
       req.params.id,
       req.body,
       { new: true, runValidators: true }
-    );
+    ).populate("kategorier", "namn")
+     .populate("varumarke", "namn")
+     .populate("leverantor", "namn");
 
     if (!updatedProduct) {
       return res.status(404).json({ error: "Produkten hittades inte." });
