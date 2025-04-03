@@ -483,8 +483,9 @@
       "kategorier": [
           "Kött"
       ],
+
       "beskrivning": "Blandfärs från sverige",
-      "bild": "https://assets.axfood.se/image/upload/f_auto,t_500/07311042004738_C1C0_s01/kottfars.jpg",
+      "bild": "https://d1ax460061ulao.cloudfront.net/1000x1000/7/d/7ddf43d755f8a1afb00327967d7912f9.jpg",
       "mängd": "1600 g",
       "varumärke": "ICA",
       "innehållsförteckning": "Blandfärs",
@@ -784,5 +785,20 @@
       "innehållsförteckning": "Avalkoholiserat vin från Spanien, rektifierad koncentrerad druvmust, konserveringsmedel (sulfiter)",
       "jämförelsepris": "77.27 kr/l",
       "leverantör": "Menigo"
+  },
+  {
+    "namn": "Äpple Royal Gala",
+      "beskrivning": "Royal Gala äpple från Nya Zeeland",
+      "pris": 6.45,
+      "kategorier": [
+          "frukter",
+          "ekologisk"
+      ],
+      "bild": "https://assets.icanet.se/image/upload/cs_srgb/t_product_large_2x_v1/v1668917198/kqyqnnk4xl3hzdewmrpp.webp",
+      "mängd": "Ca 180g",
+      "varumärke": "Royal Gala",
+      "innehållsförteckning": "Äpple",
+      "jämförelsepris": "33,95 kr/kg",
+      "leverantör": "ICA"
   }
 ]
