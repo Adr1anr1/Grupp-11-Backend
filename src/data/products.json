@@ -154,7 +154,7 @@
           "frukter",
           "ekologisk"
       ],
-      "Bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8112bb03-c909-4934-9340-c7d4cf11fb9a/1280x1280.webp",
+      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8112bb03-c909-4934-9340-c7d4cf11fb9a/1280x1280.webp",
       "mängd": "Ca 125g",
       "varumärke": "Eko",
       "innehållsförteckning": "Kiwi",
@@ -452,10 +452,10 @@
   {
       "name": "Nötfärs",
       "price": 73.95,
-      "category": [
-          "Nött"
+      "kategorier": [
+          "Kött"
       ],
-      "description": "nötfärs från Sverige",
+      "beskrivning": "nötfärs från Sverige",
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/4cbf0adc-add3-4ede-b8b7-4ed6dddc6517/1280x1280.webp",
       "mängd": "500g",
       "varumärke": "ICA",
@@ -466,10 +466,10 @@
   {
       "name": "kycklingfilé",
       "price": 119,
-      "category": [
+      "kategorier": [
           "Kött"
       ],
-      "description": "färsk kycklingfilé från Sverige",
+      "beskrivning": "färsk kycklingfilé från Sverige",
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/7724614a-a404-4702-b2d6-40559b6635d9/1280x1280.webp",
       "mängd": "1000 g",
       "varumärke": "ICA",
@@ -480,10 +480,11 @@
   {
       "name": "Blandfärs",
       "price": 172.80,
-      "category": [
+      "kategorier": [
           "Kött"
       ],
-      "description": "Blandfärs från sverige",
+
+      "beskrivning": "Blandfärs från sverige",
       "bild": "https://d1ax460061ulao.cloudfront.net/1000x1000/7/d/7ddf43d755f8a1afb00327967d7912f9.jpg",
       "mängd": "1600 g",
       "varumärke": "ICA",
@@ -494,10 +495,10 @@
   {
       "name": "Kycklinglårfilé Färsk",
       "price": 112,
-      "category": [
+      "kategorier": [
           "Kött"
       ],
-      "description": "Kyckling från sverige",
+      "beskrivning": "Kyckling från sverige",
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/dc3489cc-f1b8-4e15-82fa-4185c85a538e/1280x1280.webp",
       "mängd": "720 g",
       "varumärke": "ICA",
@@ -508,10 +509,10 @@
   {
       "name": "Fläskytterfilé",
       "price": 114.00,
-      "category": [
+      "kategorier": [
           "Kött"
       ],
-      "description": "Fläskkött från sverige",
+      "beskrivning": "Fläskkött från sverige",
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/bbb85b82-8bc6-4922-8e37-03c64dc4d172/1280x1280.webp",
       "mängd": "1000 g",
       "varumärke": "ICA",
@@ -522,10 +523,10 @@
   {
       "name": "Lax",
       "price": 327,
-      "category": [
+      "kategorier": [
           "Fisk"
       ],
-      "description": "Lax från norge",
+      "beskrivning": "Lax från norge",
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/c4c42a74-005f-4fdf-90b0-3afbfb5d83f3/1280x1280.webp",
       "mängd": "1200 g",
       "varumärke": "ICA",
@@ -536,10 +537,10 @@
   {
       "name": "Räkor",
       "price": 92.95,
-      "category": [
+      "kategorier": [
           "Fisk"
       ],
-      "description": "Räkor från sverige",
+      "beskrivning": "Räkor från sverige",
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/efed4b15-73b2-408b-bf45-305d2b2bd0e7/1280x1280.webp",
       "mängd": "500 g",
       "varumärke": "ICA",
@@ -550,10 +551,10 @@
   {
       "name": "Tonfisk i vatten",
       "price": 25.95,
-      "category": [
+      "kategorier": [
           "Fisk"
       ],
-      "description": "Tonfisk från norge",
+      "beskrivning": "Tonfisk från norge",
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/e94afe56-cf8c-48c3-be1e-5069eb772bd7/1280x1280.webp",
       "mängd": "120 g",
       "varumärke": "ICA",
@@ -564,10 +565,10 @@
   {
       "name": "Standard Mjölk",
       "price": 22.95,
-      "category": [
+      "kategorier": [
           "Mejeri"
       ],
-      "description": "ICA Standardmjölk är en fyllig och god mjölk med 3% fetthalt. Den passar att dricka till dagens alla måltider, är särskilt god till kakor och nästan en nödvändighet till sommarens jordgubbar. Dessutom kan du baka med den.",
+      "beskrivning": "ICA Standardmjölk är en fyllig och god mjölk med 3% fetthalt. Den passar att dricka till dagens alla måltider, är särskilt god till kakor och nästan en nödvändighet till sommarens jordgubbar. Dessutom kan du baka med den.",
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/da71234d-3ba8-4aa7-8334-f0ddf47c4d1e/1280x1280.webp",
       "mängd": "1,5 l",
       "varumärke": "ICA",
@@ -578,10 +579,10 @@
   {
       "name": "Hushållsost",
       "price": 325.60,
-      "category": [
+      "kategorier": [
           "Mejeri"
       ],
-      "description": "Arla® Hushållsost är Sveriges mest populära hårdost! Osten uppskattas för sin milda, gräddiga och lätt syrliga smak och den härliga, runda formen gör den perfekt att ställa fram och dela. Hushållsost äts främst som pålägg men är passar perfekt i matlagning och som tilltugg. Vår Hushållsost är tillverkad i Vium, Danmark, på mjölk från danska Arlagårdar.",
+      "beskrivning": "Arla® Hushållsost är Sveriges mest populära hårdost! Osten uppskattas för sin milda, gräddiga och lätt syrliga smak och den härliga, runda formen gör den perfekt att ställa fram och dela. Hushållsost äts främst som pålägg men är passar perfekt i matlagning och som tilltugg. Vår Hushållsost är tillverkad i Vium, Danmark, på mjölk från danska Arlagårdar.",
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/c54dd1e6-b1fb-4c47-9d13-40ce7e06e0c4/1280x1280.webp",
       "mängd": "2200 g",
       "varumärke": "Arla",
@@ -592,10 +593,10 @@
   {
       "name": "Yoghurt Vanilj",
       "price": 36.95,
-      "category": [
+      "kategorier": [
           "Mejeri"
       ],
-      "description": "Mild vaniljyoghurt med en len och krämig konsistens kombinerat med en fin, mjuk smak. Arla Ko® Mild yoghurt vanilj 2% räddar både frukost och mellanmål för hela familjen. God som den är, kombinera gärna med dina favorittillbehör som müsli, flingor, frukt eller bär. Vaniljyoghurt är en perfekt bas till smoothies. När du ser Arla Ko vet du att produkten görs på 100 procent svensk mjölk. I en praktisk förpackning som är enkel att förvara, hälla ur, tömma och återvinna.",
+      "beskrivning": "Mild vaniljyoghurt med en len och krämig konsistens kombinerat med en fin, mjuk smak. Arla Ko® Mild yoghurt vanilj 2% räddar både frukost och mellanmål för hela familjen. God som den är, kombinera gärna med dina favorittillbehör som müsli, flingor, frukt eller bär. Vaniljyoghurt är en perfekt bas till smoothies. När du ser Arla Ko vet du att produkten görs på 100 procent svensk mjölk. I en praktisk förpackning som är enkel att förvara, hälla ur, tömma och återvinna.",
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/45241a7f-b21f-492f-a2da-f7bc09e9f9be/1280x1280.webp",
       "mängd": "1500 g",
       "varumärke": "ICA",
@@ -606,10 +607,10 @@
   {
       "name": "Glass Sea Salt Caramel",
       "price": 58.95,
-      "category": [
+      "kategorier": [
           "Mejeri"
       ],
-      "description": "Gräddig karamellglass med en swirl av karamell och havssalt. Passande för lågkolhydratskost, keto och diabetes men främst för alla som vill njuta och må bra på samma gång. No added sugar, no palm oil, just joy.",
+      "beskrivning": "Gräddig karamellglass med en swirl av karamell och havssalt. Passande för lågkolhydratskost, keto och diabetes men främst för alla som vill njuta och må bra på samma gång. No added sugar, no palm oil, just joy.",
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/5c805be1-1f7e-4b26-8aa6-2e4551ad0e33/1280x1280.webp",
       "mängd": "0.473 l",
       "varumärke": "Nick's",
@@ -620,10 +621,10 @@
   {
       "name": "Tortillabröd Original 12-pack",
       "price": 54.95,
-      "category": [
+      "kategorier": [
           "Bröd & Kakor"
       ],
-      "description": "Mjuka tortillabröd av vete, storlek Large. En tortilla i en storlek som gör det enkelt att laga Tex Mex och mexikansk mat till familj och vänner. Santa Maria Tortilla Original Large är tortillas som passar till wraps, burritos, quesadillas och tacos. Denna tortilla går att njuta varm som kall, perfekt för utflykter, kalas, fest och fredagsmys.• En förpackning innehåller 12st tortillabröd, storlek Large• Santa Maria Tortilla Original finns även i storlek Small och Medium• Utan tillsatt socker • Tortillabröd går utmärkt att frysa• Lämplig även för vegan och vegetarisk matlagning.",
+      "beskrivning": "Mjuka tortillabröd av vete, storlek Large. En tortilla i en storlek som gör det enkelt att laga Tex Mex och mexikansk mat till familj och vänner. Santa Maria Tortilla Original Large är tortillas som passar till wraps, burritos, quesadillas och tacos. Denna tortilla går att njuta varm som kall, perfekt för utflykter, kalas, fest och fredagsmys.• En förpackning innehåller 12st tortillabröd, storlek Large• Santa Maria Tortilla Original finns även i storlek Small och Medium• Utan tillsatt socker • Tortillabröd går utmärkt att frysa• Lämplig även för vegan och vegetarisk matlagning.",
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/751165b5-3cc3-4f47-a345-e1d0bc251fb8/1280x1280.webp",
       "mängd": "742 g",
       "varumärke": "Santa Maria",
@@ -634,10 +635,10 @@
   {
       "name": "Kex Original",
       "price": 22.95,
-      "category": [
+      "kategorier": [
           "Bröd & Kakor"
       ],
-      "description": "Ballerina är Sveriges mest älskade kaka och Göteborgs Kex populäraste varumärke. Det runda originalet har funnits sedan 1963. Oemotståndliga kakor med spröda kex och len nougatkräm. Nu med 25% mer fyllning för ännu godare smak. Givna kakor till fikat, kalaset eller utflykten! Ballerinas produkter är bakade utan palmolja.",
+      "beskrivning": "Ballerina är Sveriges mest älskade kaka och Göteborgs Kex populäraste varumärke. Det runda originalet har funnits sedan 1963. Oemotståndliga kakor med spröda kex och len nougatkräm. Nu med 25% mer fyllning för ännu godare smak. Givna kakor till fikat, kalaset eller utflykten! Ballerinas produkter är bakade utan palmolja.",
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/816f20ed-9e18-48c6-9186-cbe2f0c33a81/1280x1280.webp",
       "mängd": "205 g",
       "varumärke": "Ballerina",
@@ -648,10 +649,10 @@
   {
       "name": "Oreo Original 154g",
       "price": 30.95,
-      "category": [
+      "kategorier": [
           "Bröd & Kakor"
       ],
-      "description": "Chokladkakor med vaniljsmakande fyllning. Lika gott till eftermiddagsfikat som till fredagsmyset!",
+      "beskrivning": "Chokladkakor med vaniljsmakande fyllning. Lika gott till eftermiddagsfikat som till fredagsmyset!",
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/909e2e63-fbc3-4692-b23f-a16fe006e575/1280x1280.webp",
       "mängd": "154 g",
       "varumärke": "Oreo",
@@ -662,10 +663,10 @@
   {
       "name": "Pasta Spaghetti",
       "price": 42.95,
-      "category": [
+      "kategorier": [
           "Torrvaror"
       ],
-      "description": "Pasta Spaghetti från Barilla är den mest klassiska pastasorten från Italien. Den föddes i Neapel och fick sitt namn redan 1842 av Antonio Vivani, som tyckte att Spaghetti pasta såg ut som små snören. Från början var Spaghetti en extra lång pasta på hela 50 centimeter, men med tiden klipptes den ner till den nuvarande längden på 25 centimeter. Vår Spaghetti är en durumvetepasta som med sin traditionella karaktär har en självklar plats i köket.",
+      "beskrivning": "Pasta Spaghetti från Barilla är den mest klassiska pastasorten från Italien. Den föddes i Neapel och fick sitt namn redan 1842 av Antonio Vivani, som tyckte att Spaghetti pasta såg ut som små snören. Från början var Spaghetti en extra lång pasta på hela 50 centimeter, men med tiden klipptes den ner till den nuvarande längden på 25 centimeter. Vår Spaghetti är en durumvetepasta som med sin traditionella karaktär har en självklar plats i köket.",
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/282678b0-ce1d-48e1-8118-c1a2309eb561/1280x1280.webp",
       "mängd": "1000 g",
       "varumärke": "Barilla",
@@ -676,10 +677,10 @@
   {
       "name": "Basmatiris",
       "price": 99.00,
-      "category": [
+      "kategorier": [
           "Torrvaror"
       ],
-      "description": "ICA Basmatiris är ett luftigt, långkornigt ris som inte klibbar. Med sin nötiga smak passar det utmärkt till exempelvis indiska rätter eller rätter med mycket smak. Du kan även smaksätta det för att ha som extra smakrikt tillbehör.",
+      "beskrivning": "ICA Basmatiris är ett luftigt, långkornigt ris som inte klibbar. Med sin nötiga smak passar det utmärkt till exempelvis indiska rätter eller rätter med mycket smak. Du kan även smaksätta det för att ha som extra smakrikt tillbehör.",
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/86c21544-39d9-4e49-a1f4-9c0b46f58aa8/1280x1280.webp",
       "mängd": "2 kg",
       "varumärke": "ICA",
