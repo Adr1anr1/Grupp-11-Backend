@@ -4,8 +4,8 @@
       "beskrivning": "Granny Smith äpple från Nya Zeeland",
       "pris": 6.45,
       "kategorier": [
-          "frukter",
-          "ekologisk"
+          "Frukter",
+          "Ekologisk"
       ],
       "bild": "https://assets.axfood.se/image/upload/f_auto,t_500/07311042004738_C1C0_s01",
       "mängd": "Ca 180g",
@@ -19,8 +19,8 @@
       "beskrivning": "Conference päron från Belgien",
       "pris": 6.15,
       "kategorier": [
-          "frukter",
-          "ekologisk"
+          "Frukter",
+          "Ekologisk"
       ],
       "bild": "https://brondsholm.se/27962-large_default/pron-13cm-grn-konstgjord-frukt.webp",
       "mängd": "Ca 220g",
@@ -34,8 +34,8 @@
       "beskrivning": "gul banan från ecuador",
       "pris": 4.85,
       "kategorier": [
-          "frukter",
-          "ekologisk"
+          "Frukter",
+          "Ekologisk"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ba2f23d3-1525-45e7-9163-6a5671156f94/1280x1280.webp",
       "mängd": "Ca 180g",
@@ -49,8 +49,8 @@
       "beskrivning": "ekologisk röd tomat från Nederländerna",
       "pris": 5.87,
       "kategorier": [
-          "grönsaker",
-          "ekologisk"
+          "Grönsaker",
+          "Ekologisk"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8af94707-5620-444e-9682-5379fa521da4/1280x1280.webp",
       "mängd": "Ca 250g",
@@ -64,8 +64,8 @@
       "beskrivning": "ekologisk grön gurka från Spanien",
       "pris": 17.95,
       "kategorier": [
-          "grönsaker",
-          "ekologisk"
+          "Grönsaker",
+          "Ekologisk"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1f9e3ec1-11c5-4b89-8487-ce47bf9cb285/1280x1280.webp",
       "mängd": "Ca 300g",
@@ -79,8 +79,8 @@
       "beskrivning": "ekologisk grön sallad från spanien",
       "pris": 17.14,
       "kategorier": [
-          "grönsaker",
-          "ekologisk"
+          "Grönsaker",
+          "Ekologisk"
       ],
       "bild": "https://upload.wikimedia.org/wikipedia/commons/6/69/Iceberg1.jpg",
       "mängd": "Ca 440g",
@@ -94,7 +94,7 @@
       "beskrivning": "Vitkål från sverige",
       "pris": 24.86,
       "kategorier": [
-          "grönsaker"
+          "Grönsaker"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/4a799b81-56fe-481d-b3da-26fa61c11bc1/1280x1280.webp",
       "mängd": "Ca 830g",
@@ -108,7 +108,7 @@
       "beskrivning": "morot från sverige",
       "pris": 1.60,
       "kategorier": [
-          "grönsaker"
+          "Grönsaker"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0608191f-4243-4833-84b7-5aa2c5db384a/1280x1280.webp",
       "mängd": "Ca 100g",
@@ -123,7 +123,7 @@
       "pris": 1.90,
       "kategorier": [
           "Rotfrukter",
-          "grönsaker"
+          "Grönsaker"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/995db740-cceb-4ce9-80e6-26775eaaa704/1280x1280.webp",
       "mängd": "Ca 100g",
@@ -137,7 +137,7 @@
       "beskrivning": "Apelsin från Spanien",
       "pris": 12.46,
       "kategorier": [
-          "frukter"
+          "Frukter"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/63f26021-455f-44f3-a769-ae9b2675bde1/1280x1280.webp",
       "mängd": "Ca 290g",
@@ -151,8 +151,8 @@
       "beskrivning": "ekologisk grön kiwi från Grekland",
       "pris": 8.95,
       "kategorier": [
-          "frukter",
-          "ekologisk"
+          "Frukter",
+          "Ekologisk"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8112bb03-c909-4934-9340-c7d4cf11fb9a/1280x1280.webp",
       "mängd": "Ca 125g",
@@ -166,7 +166,7 @@
       "beskrivning": "Gröna druvor från Peru",
       "pris": 39.95,
       "kategorier": [
-          "frukter"
+          "Frukter"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/589e51fd-4e21-4ed7-b702-bcc3db3e26d9/1280x1280.webp",
       "mängd": "Ca 500g",
@@ -180,7 +180,7 @@
       "beskrivning": "Röda druvor från Sydafrika",
       "pris": 30.00,
       "kategorier": [
-          "frukter"
+          "Frukter"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/36072ec6-a12b-4c54-a650-ec0f0d799451/1280x1280.webp",
       "mängd": "Ca 500g",
@@ -194,7 +194,7 @@
       "beskrivning": "persika från Chile",
       "pris": 47.95,
       "kategorier": [
-          "frukter"
+          "Frukter"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/44f40999-1e45-4a62-8c32-37d54b25d692/1280x1280.webp",
       "mängd": "Ca 500g",
@@ -208,7 +208,7 @@
       "beskrivning": "Röda plommon från Frankrike",
       "pris": 39.95,
       "kategorier": [
-          "frukter"
+          "Frukter"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/470a82e4-adba-4935-9a4a-a22934d2331b/1280x1280.webp",
       "mängd": "Ca 500g",
@@ -222,8 +222,8 @@
       "beskrivning": "Mango från Peru",
       "pris": 16.95,
       "kategorier": [
-          "frukter",
-          "exotisk"
+          "Frukter",
+          "Exotisk"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1f7e0ef3-591b-4d1c-957a-b69d7952d17b/1280x1280.webp",
       "mängd": "Ca 660g",
@@ -237,8 +237,8 @@
       "beskrivning": "färsk ananas från Costa Rica",
       "pris": 29.95,
       "kategorier": [
-          "frukter",
-          "exotisk"
+          "Frukter",
+          "Exotisk"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/6fd0f513-ed71-483f-aca2-d3e3455ba623/200x200.webp",
       "mängd": "Ca 950g",
@@ -252,7 +252,7 @@
       "beskrivning": "Röd paprika från Nederländerna",
       "pris": 15.74,
       "kategorier": [
-          "grönsaker"
+          "Grönsaker"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/3cba6228-df72-405d-a1b9-4a76fd42d4c6/1280x1280.webp",
       "mängd": "Ca 225g",
@@ -266,7 +266,7 @@
       "beskrivning": "Gul paprika från Nederländerna",
       "pris": 12.59,
       "kategorier": [
-          "grönsaker"
+          "Grönsaker"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1439859e-a140-4472-a46d-e1b3c5743930/1280x1280.webp",
       "mängd": "Ca 180g",
@@ -281,7 +281,7 @@
       "pris": 10.48,
       "kategorier": [
           "Rotfrukter",
-          "grönsaker"
+          "Grönsaker"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ebba5794-843f-4e7c-97c1-461b3e4e831f/200x200.webp",
       "mängd": "Ca 350g",
@@ -295,8 +295,8 @@
       "beskrivning": "ekologisk spenat från Spanien",
       "pris": 17.95,
       "kategorier": [
-          "grönsaker",
-          "ekologisk"
+          "Grönsaker",
+          "Ekologisk"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/7de47a42-6270-4590-bf8b-0551defa358e/1280x1280.webp",
       "mängd": "Ca 65g",
@@ -310,7 +310,7 @@
       "beskrivning": "färsk broccoli från Spanien",
       "pris": 16.95,
       "kategorier": [
-          "grönsaker"
+          "Grönsaker"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d9cdd9c5-4c95-41c6-9c59-7b6a82df9ac9/200x200.webp",
       "mängd": "Ca 250g",
@@ -324,7 +324,7 @@
       "beskrivning": "Blomkål från Sverige",
       "pris": 29.66,
       "kategorier": [
-          "grönsaker"
+          "Grönsaker"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/15d2eb49-50fe-4a5b-b7cf-5243e7dd68d6/200x200.webp",
       "mängd": "Ca 900g",
@@ -338,7 +338,7 @@
       "beskrivning": "Aubergine från Spanien",
       "pris": 13.95,
       "kategorier": [
-          "grönsaker"
+          "Grönsaker"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/da601c97-8736-4da6-8949-106520548922/200x200.webp",
       "mängd": "Ca 225g",
@@ -352,7 +352,7 @@
       "beskrivning": "grön zucchini från Sverige",
       "pris": 17.04,
       "kategorier": [
-          "grönsaker"
+          "Grönsaker"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/f4f05c9b-d9ad-405d-a325-ae3531173679/200x200.webp",
       "mängd": "Ca 275g",
@@ -366,7 +366,7 @@
       "beskrivning": "gul lök från Sverige",
       "pris": 2.33,
       "kategorier": [
-          "grönsaker"
+          "Grönsaker"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/02c14025-a793-4534-a041-6b1b50cc4e34/200x200.webp",
       "mängd": "Ca 180g",
@@ -380,7 +380,7 @@
       "beskrivning": "Färsk vitlök från Spanien",
       "pris": 12.95,
       "kategorier": [
-          "grönsaker"
+          "Grönsaker"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0647ad9b-1763-47c1-b654-9e5959dd7e78/200x200.webp",
       "mängd": "Ca 75g",
@@ -394,8 +394,8 @@
       "beskrivning": "Findus Svenska Ärter kommer ifrån vår egna ärtsort Ebba som odlas i Dalsland. Ebba-ärterna är smakrika och är alldeles extra söta. Ärterna fryses ned kort efter att de skördats, och gör att ärterna behåller sin ljuvliga sötma och näringsvärde så att du kan njuta av ärterna året om. Findus Ärter innehåller fibrer, protein och C-vitaminer som hjälper till att göra varje måltid hälsosammare. Upplev ärterna i en klassisk ärtsoppa eller varför inte en i en nyttig smoothie till frukosten. För att få en riklig skörd med de bästa ärterna är processen innan noggrant planerad, och Findus ser alltid till att det sker med minsta möjliga klimatpåverkan. Med lång erfarenhet inom odling vet Findus hur man väljer ut de bästa åkrarna, plantorna och tid för sådd. Tips! Om du gillar Findus Ärter så finns en större förpackning att köpa.",
       "pris": 26.95,
       "kategorier": [
-          "grönsaker",
-          "frysta"
+          "Grönsaker",
+          "Frysta"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/b89cd7e6-9615-4dc5-b28c-0dc6276136d8/200x200.webp",
       "mängd": "Ca 600g",
@@ -409,8 +409,8 @@
       "beskrivning": "Heinz Vita bönor lanserades redan 1905, bönor är både mättande och dessutom mycket nyttiga. Våra klassiska Heinz Bönor är milt kryddade och tillreds med tomatsås. En standardingrediens både i Chili con carne och en äkta Engelsk frukost, där Heinz Bönor serveras tillsammans med rostat bröd, ägg, bacon och olika sorters korvar.",
       "pris": 11.95,
       "kategorier": [
-          "grönsaker",
-          "konserverat"
+          "Grönsaker",
+          "Konserverat"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8155124c-3544-485b-9c97-127f1bb4894a/200x200.webp",
       "mängd": "Ca 415g",
@@ -424,8 +424,8 @@
       "beskrivning": "Majs från Green Giant",
       "pris": 28.95,
       "kategorier": [
-          "grönsaker",
-          "konserverat"
+          "Grönsaker",
+          "Konserverat"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/2405bef0-e996-48d3-a129-93cdab1fb2ff/1280x1280.webp",
       "mängd": "Ca 480g",
@@ -439,8 +439,8 @@
       "beskrivning": "Finkrossade tomater från Mutti",
       "pris": 43.95,
       "kategorier": [
-          "grönsaker",
-          "konserverat"
+          "Grönsaker",
+          "Konserverat"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/70864b9e-d541-400a-b135-b5c77102181a/1280x1280.webp",
       "mängd": "Ca 1200g",
@@ -693,7 +693,7 @@
       "beskrivning": "Kungsörnen Vetemjöl från Lantmännen är skapat av fint kärnvete från svenska åkrar.\nKärnvetemjöl är malt och siktat på svenskt höstvete i våra egna kvarnar.\nDu kan använda kärnvetemjöl till allt från mjuka till hårda kakor, redningar, bröd eller bullar.\nEtt utmärkt allroundmjöl helt enkelt!\nDetta mjöl är en del av Lantmännens Klimat& Natur odlingsprogram, ett mjöl som är odlat med lägre klimatpåverkan.\nDet innebär att när du väljer att baka med detta mjöl bidrar du till att Lantmännen kan odla spannmål med mer hållbara metoder.",
       "pris": 20.95,
       "kategorier": [
-          "torrvaror"
+          "Torrvaror"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/61b2431e-2c4e-4c33-8da6-39aa1b9401da/1280x1280.webp",
       "mängd": "2 kg",
@@ -707,7 +707,7 @@
       "beskrivning": "Strösocker från svenska sockerbetor. Strösocker är ett finkornigt socker som tillverkas av betsocker och benämns som sockerarten sackaros. Strösocker är den mest använda av våra produkter och finns i 2 kg och 1 kg påse.",
       "pris": 23.90,
       "kategorier": [
-          "torrvaror"
+          "Torrvaror"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0c6f2ddb-6ae4-4191-80ee-5440776299c0/1280x1280.webp",
       "mängd": "2 kg",
@@ -721,7 +721,7 @@
       "beskrivning": "LÖFBERGS BRYGGKAFFE MELLANROST ORGINAL är en fyllig och mjuk mellanrost med härlig arom, lätt nötaktig sötma och en behaglig fruktighet i eftersmaken. ROSTNING 2/5 Fyllighet 3/5 Syrlighet 3/5. BRYGGKAFFET är 100% Arabicakaffe från Syd- och Centralamerika samt Östafrika. EN GOD KOPP KAFFE Vi rekommenderar att tillreda Mellanrost Original i en kaffebryggare. Innan du börjar brygga kaffet bör du se till så att bryggutrustningen är ren. För att det ska smaka så gott som möjligt är det viktigt att du doserar rätt, ett kaffemått eller en rågad matsked per kopp, 6-8 g per 1,5 dl. Helst ska vattnet vara mellan 92- 96°C. Om du har en bryggare med för låg temperatur är det bättre att koka upp vattnet och hälla det över kaffet i filterhållaren. HÅLLBARHET PÅ KAFFET. Vi rekommenderar att kaffet förvaras torrt, svalt och mörkt, i sluten ursprungsförpackning. Kaffets smak skadas av syre, exponering av ljus samt fukt som uppstår om kaffet utsätts för temperaturförändringar. Öppnad förpackning bör förbrukas inom 10-14 dagar. NÄR KAFFET ÄR SLUT Av miljöskäl är den arombevarande plasten i förpackningen mycket tunn vilket möjliggörs av det skyddande pappersomslaget. Vår förpackning innehåller dessutom plast från förnybar råvara. Källsortera pappret som pappersförpackning och påsen som plast. Filter och sump sorteras som matavfall och kan komposteras.",
       "pris": 65.95,
       "kategorier": [
-          "dryck"
+          "Dryck"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/dd49bafb-d9e9-4abe-9d81-43a05b622f90/1280x1280.webp",
       "mängd": "450g",
@@ -735,7 +735,7 @@
       "beskrivning": "Förtjusande citrusdoft av bergamott slingrar sig runt detta utsökta gröna te. Ta dig tid att njuta av en tidslös klassiker, med en charmig twist.",
       "pris": 35.95,
       "kategorier": [
-          "dryck"
+          "Dryck"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/98d2be21-7348-403b-a180-83b2ad6b6b23/1280x1280.webp",
       "mängd": "25 st",
@@ -749,7 +749,7 @@
       "beskrivning": "Av solmogna, handplockade apelsiner har vi pressat denna smakrika apelsinjuice sedan slutet av 60-talet. I förpackningen finns juice från 3,5 kg apelsiner. 100% pressad frukt med fruktkött. Perfekt till frukosten",
       "pris": 33.95,
       "kategorier": [
-          "dryck"
+          "Dryck"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8fdae255-62c1-4b6f-a5d5-6ea2d4b850bd/1280x1280.webp",
       "mängd": "1 l",
@@ -763,7 +763,7 @@
       "beskrivning": "Ölet ger en förnimmelse av guldet från det rena norrländska naturen! Norrlands Guld gör sig alldeles utmärkt till grillade kötträtter, men också med bara ett par ölkorvar som tilltugg.Doft: Frisk maltaromatisk doft med moderat inslag av humlearomSmak: Milt öl av Dortmundertyp. Fylligt med viss beska.",
       "pris": 52.95,
       "kategorier": [
-          "dryck"
+          "Dryck"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/53dba8f1-db00-4115-a3dc-751fc8f4ff93/1280x1280.webp",
       "mängd": "1,98 l",
@@ -777,7 +777,7 @@
       "beskrivning": "Halvtorrt rödvin utan alkohol. Smaken är fruktig med inslag av björnbär och nötter. Passar särskilt bra till kötträtter och grillat. Gjort av riktigt vin",
       "pris": 57.95,
       "kategorier": [
-          "dryck"
+          "Dryck"
       ],
       "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0cb4ac8c-7ede-4b36-ba9a-ecf9c1c51b9b/1280x1280.webp",
       "mängd": "750 ml",
@@ -791,8 +791,8 @@
       "beskrivning": "Royal Gala äpple från Nya Zeeland",
       "pris": 6.45,
       "kategorier": [
-          "frukter",
-          "ekologisk"
+          "Frukter",
+          "Ekologisk"
       ],
       "bild": "https://assets.icanet.se/image/upload/cs_srgb/t_product_large_2x_v1/v1668917198/kqyqnnk4xl3hzdewmrpp.webp",
       "mängd": "Ca 180g",
