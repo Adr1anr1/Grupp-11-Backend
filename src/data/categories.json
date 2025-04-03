@@ -6,7 +6,10 @@
   { "namn": "kött" },
   { "namn": "fisk" },
   { "namn": "mejeri" },
-  { "namn": "bröd" },
+  { "namn": "bröd och kakor" },
   { "namn": "torrvaror" },
-  { "namn": "dryck" }
+  { "namn": "dryck" },
+  { "namn": "konserverat"},
+  { "namn": "frysta"},
+  { "namn": "rotfrukter"}
 ]
