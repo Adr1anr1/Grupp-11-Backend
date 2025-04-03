@@ -12,7 +12,7 @@
       "varumärke": "Granny Smith",
       "innehållsförteckning": "Äpple",
       "jämförelsepris": "33,95 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "namn": "Päron Conference",
@@ -27,7 +27,7 @@
       "varumärke": "Conference",
       "innehållsförteckning": "Päron",
       "jämförelsepris": "27,95 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "namn": "Banan Eko",
@@ -42,7 +42,7 @@
       "varumärke": "Eko",
       "innehållsförteckning": "Banan",
       "jämförelsepris": "24,95 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "namn": "Tomat kvist",
@@ -57,7 +57,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Tomat",
       "jämförelsepris": "48,95 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "namn": "Gurka",
@@ -72,7 +72,7 @@
       "varumärke": "Eko",
       "innehållsförteckning": "Gurka",
       "jämförelsepris": "59.33 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "namn": "Isbergssallat eko",
@@ -87,7 +87,7 @@
       "varumärke": "Eko",
       "innehållsförteckning": "Sallat",
       "jämförelsepris": "38.95 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "namn": "Vitkål",
@@ -101,7 +101,7 @@
       "varumärke": "Eko",
       "innehållsförteckning": "Vitkål",
       "jämförelsepris": "29.95 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "namn": "Morötter Tvättade ",
@@ -115,7 +115,7 @@
       "varumärke": "Eko",
       "innehållsförteckning": "Morot",
       "jämförelsepris": "15.95 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "namn": "Potatis",
@@ -130,7 +130,7 @@
       "varumärke": "Eko",
       "innehållsförteckning": "Potatis",
       "jämförelsepris": "19.95 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "namn": "Apelsin Navel",
@@ -144,7 +144,7 @@
       "varumärke": "Navel",
       "innehållsförteckning": "Apelsin",
       "jämförelsepris": "42.95 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "namn": "Kiwi",
@@ -159,7 +159,7 @@
       "varumärke": "Eko",
       "innehållsförteckning": "Kiwi",
       "jämförelsepris": "71.95 kr/kg",
-      "leverantör": "Axfood"
+      "leverantor": "Axfood"
   },
   {
       "namn": "Gröna druvor Thompson Seedless ",
@@ -173,7 +173,7 @@
       "varumärke": "Thompson Seedless",
       "innehållsförteckning": "Druvor",
       "jämförelsepris": "79.90 kr/kg",
-      "leverantör": "Axfood"
+      "leverantor": "Axfood"
   },
   {
       "namn": "Röda druvor Crimson ",
@@ -187,7 +187,7 @@
       "varumärke": "Crimson",
       "innehållsförteckning": "Druvor",
       "jämförelsepris": "60.00 kr/kg",
-      "leverantör": "Axfood"
+      "leverantor": "Axfood"
   },
   {
       "namn": "Persika Paraguayo",
@@ -201,7 +201,7 @@
       "varumärke": "Paraguayo",
       "innehållsförteckning": "Persika",
       "jämförelsepris": "95.90 kr/kg",
-      "leverantör": "Axfood"
+      "leverantor": "Axfood"
   },
   {
       "namn": "Plommon",
@@ -215,7 +215,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Plommon",
       "jämförelsepris": "79.90 kr/kg",
-      "leverantör": "Axfood"
+      "leverantor": "Axfood"
   },
   {
       "namn": "Mango",
@@ -230,7 +230,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Mango",
       "jämförelsepris": "25.90 kr/kg",
-      "leverantör": "Axfood"
+      "leverantor": "Axfood"
   },
   {
       "namn": "Ananas",
@@ -245,7 +245,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Ananas",
       "jämförelsepris": "31.58 kr/kg",
-      "leverantör": "Axfood"
+      "leverantor": "Axfood"
   },
   {
       "namn": "Paprika Röd",
@@ -259,7 +259,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Paprika",
       "jämförelsepris": "69.95 kr/kg",
-      "leverantör": "Axfood"
+      "leverantor": "Axfood"
   },
   {
       "namn": "Paprika Gul",
@@ -273,7 +273,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Paprika",
       "jämförelsepris": "69.95 kr/kg",
-      "leverantör": "Axfood"
+      "leverantor": "Axfood"
   },
   {
       "namn": "sötpotatis",
@@ -288,7 +288,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Sötpotatis",
       "jämförelsepris": "29.95 kr/kg",
-      "leverantör": "Axfood"
+      "leverantor": "Axfood"
   },
   {
       "namn": "Babyspenat Ekologisk ",
@@ -303,7 +303,7 @@
       "varumärke": "Eko",
       "innehållsförteckning": "Spenat",
       "jämförelsepris": "276.92 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "namn": "Broccoli",
@@ -317,7 +317,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Broccoli",
       "jämförelsepris": "67.80 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "namn": "Blomkål",
@@ -331,7 +331,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Blomkål",
       "jämförelsepris": "32.95 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "namn": "Aubergine",
@@ -345,7 +345,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Aubergine",
       "jämförelsepris": "61.95 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "namn": "Zucchini",
@@ -359,7 +359,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Zucchini",
       "jämförelsepris": "61.95 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "namn": "Lök gul",
@@ -373,7 +373,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Lök",
       "jämförelsepris": "12.95 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "namn": "Vitlök Morado",
@@ -387,7 +387,7 @@
       "varumärke": "Morado",
       "innehållsförteckning": "Vitlök",
       "jämförelsepris": "172.67 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "namn": "Ärtor Findus",
@@ -402,7 +402,7 @@
       "varumärke": "Findus",
       "innehållsförteckning": "Ärter. Klimatcertifierad Svenskt Sigill-råvara",
       "jämförelsepris": "44.92 kr/kg",
-      "leverantör": "Out of home"
+      "leverantor": "Out of home"
   },
   {
       "namn": " Vita bönor",
@@ -417,7 +417,7 @@
       "varumärke": "Heinz",
       "innehållsförteckning": "Bönor (50%), vatten, tomatpuré (15%), socker, modifierad majsstärkelse, ättika, salt, krydd- och örtextrakt",
       "jämförelsepris": "28.75 kr/kg",
-      "leverantör": "Out of home"
+      "leverantor": "Out of home"
   },
   {
       "namn": "Majs 3 pack Green Giant",
@@ -432,7 +432,7 @@
       "varumärke": "Green Giant",
       "innehållsförteckning": "Majs (70%), vatten, socker, salt, konserveringsmedel (E211)",
       "jämförelsepris": "60.21 kr/kg",
-      "leverantör": "Out of home"
+      "leverantor": "Out of home"
   },
   {
       "namn": "Finkrossade Tomater Mutti",
@@ -447,7 +447,7 @@
       "varumärke": "Mutti",
       "innehållsförteckning": "Finkrossade tomater (99%), salt, konserveringsmedel (E211)",
       "jämförelsepris": "36.58 kr/kg",
-      "leverantör": "Out of home"
+      "leverantor": "Out of home"
   },
   {
       "name": "Nötfärs",
@@ -461,7 +461,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Nötfärs",
       "jämförelsepris": "147.49 kr/kg",
-      "leverantör": "Menigo"
+      "leverantor": "Menigo"
   },
   {
       "name": "kycklingfilé",
@@ -475,7 +475,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Kycklingfilé",
       "jämförelsepris": "119.00 kr/kg",
-      "leverantör": "Menigo"
+      "leverantor": "Menigo"
   },
   {
       "name": "Blandfärs",
@@ -489,7 +489,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Blandfärs",
       "jämförelsepris": "108.00 kr/kg",
-      "leverantör": "Menigo"
+      "leverantor": "Menigo"
   },
   {
       "name": "Kycklinglårfilé Färsk",
@@ -503,7 +503,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Kycklinglårfile",
       "jämförelsepris": "155.56 kr/kg",
-      "leverantör": "Menigo"
+      "leverantor": "Menigo"
   },
   {
       "name": "Fläskytterfilé",
@@ -517,7 +517,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Fläskytterfilé",
       "jämförelsepris": "114.56 kr/kg",
-      "leverantör": "Menigo"
+      "leverantor": "Menigo"
   },
   {
       "name": "Lax",
@@ -531,7 +531,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Lax",
       "jämförelsepris": "273.50 kr/kg",
-      "leverantör": "Kvalitet fisk"
+      "leverantor": "Kvalitet fisk"
   },
   {
       "name": "Räkor",
@@ -545,7 +545,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Räkor",
       "jämförelsepris": "185.90 kr/kg",
-      "leverantör": "Kvalitet fisk"
+      "leverantor": "Kvalitet fisk"
   },
   {
       "name": "Tonfisk i vatten",
@@ -559,7 +559,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Tonfisk",
       "jämförelsepris": "216.25 kr/kg",
-      "leverantör": "Kvalitet fisk"
+      "leverantor": "Kvalitet fisk"
   },
   {
       "name": "Standard Mjölk",
@@ -573,7 +573,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Högpastöriserad MJÖLK*, vitamin D.",
       "jämförelsepris": "22.95 kr/l",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "name": "Hushållsost",
@@ -587,7 +587,7 @@
       "varumärke": "Arla",
       "innehållsförteckning": "Pastöriserad MJÖLK, salt, syrningskultur, ystenzym.",
       "jämförelsepris": "148.00 kr/kg",
-      "leverantör": "Arla"
+      "leverantor": "Arla"
   },
   {
       "name": "Yoghurt Vanilj",
@@ -601,7 +601,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Högpastöriserad MJÖLK, socker 5%, MJÖLKPROTEIN, naturlig arom, vaniljextrakt, mild yoghurtkultur, vitamin D.",
       "jämförelsepris": "24.63 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "name": "Glass Sea Salt Caramel",
@@ -615,7 +615,7 @@
       "varumärke": "Nick's",
       "innehållsförteckning": "Koncentrerad skumMJÖLK/MÆLK, polydextros (fiber), sötningsmedel (xylitol), sötningsmedel (erytritol), MJÖLK/MÆLKprotein, GRÄDDE/KREM/FLØDE, vegetabilisk olja (kokos), löslig/oppløselig majsfiber, sötningsmedel (sorbitol), naturlig arom, modifierad stärkelse, (havs-) salt, fuktighetsbevarande medel (glycerol), stabiliseringsmedel (fruktkärnmjöl, guarkärnmjöl, karragenan), emulgeringsmedel (mono- och diglycerider av fettsyror), sötningsmedel (steviolglykosider), färgämnen (betakaroten, sockerkulör). Kan innehålla spår av GLUTEN, ÄGG, SOJA, SESAM, NÖTTER och JORDNÖTTER/PEANØTTER.",
       "jämförelsepris": "156.34 kr/l",
-      "leverantör": "Nick's"
+      "leverantor": "Nick's"
   },
   {
       "name": "Tortillabröd Original 12-pack",
@@ -629,7 +629,7 @@
       "varumärke": "Santa Maria",
       "innehållsförteckning": "VETEMJÖL (72%), vatten, rapsolja, fuktighetsbevarande medel (E422), salt, emulgeringsmedel (E471), bakpulver (natriumkarbonater), surhetsreglerande medel (citronsyra), sockerbetsfiber.",
       "jämförelsepris": "74.00 kr/kg",
-      "leverantör": "Menigo"
+      "leverantor": "Menigo"
   },
   {
       "name": "Kex Original",
@@ -643,7 +643,7 @@
       "varumärke": "Ballerina",
       "innehållsförteckning": "VETEMJÖL/HVEDEMEL, nougatfyllning 35 % (socker, fullhärdat kokosfett, vasslepulver/vallepulver från MJÖLK/MÆLK, HASSELNÖTTER/HASSELNØDDER 10 %, fettreducerat kakaopulver, emulgeringsmedel (SOJALECITIN), arom), socker, solrosolja/solsikkeolie, fettreducerat kakaopulver, bakpulver/hævemiddel (natriumbikarbonat, hjorthornssalt E503), invertsocker, salt, emulgeringsmedel (SOJALECITIN), arom (vanillin), KORNMALT/BYGMALT.",
       "jämförelsepris": "112.20 kr/kg",
-      "leverantör": "Out of home"
+      "leverantor": "Out of home"
   },
   {
       "name": "Oreo Original 154g",
@@ -657,7 +657,7 @@
       "varumärke": "Oreo",
       "innehållsförteckning": "VETEMJÖL/HVEDEMEL, socker, palmolja/-olie, rapsolja/-olie, fettreducerad/fedtfattig kakao 4,5%, VETESTÄRKELSE/HVEDESTIVELSE, glukos-fruktossirap, bakpulver/hævemidler (kaliumkarbonater, ammoniumkarbonater, natriumkarbonater),salt, emulgeringsmedel/emulgatorer (SOJALECITIN, solros-/solsikkelecithin), arom.KAN INNEHÅLLA MJÖLK/MÆLK",
       "jämförelsepris": "201.30 kr/kg",
-      "leverantör": "Out of home"
+      "leverantor": "Out of home"
   },
   {
       "name": "Pasta Spaghetti",
@@ -671,7 +671,7 @@
       "varumärke": "Barilla",
       "innehållsförteckning": "Pasta",
       "jämförelsepris": "42.95 kr/kg",
-      "leverantör": "Axfood"
+      "leverantor": "Axfood"
   },
   {
       "name": "Basmatiris",
@@ -685,7 +685,7 @@
       "varumärke": "ICA",
       "innehållsförteckning": "Basmatiris, skalat och polerat.",
       "jämförelsepris": "49.50 kr/kg",
-      "leverantör": "ICA"
+      "leverantor": "ICA"
   },
   {
       "namn": "Vetemjöl",
@@ -699,7 +699,7 @@
       "varumärke": "Kungsörnen",
       "innehållsförteckning": "kärnVETEmjöl, mjölbehandlingsmedel(askorbinsyra)",
       "jämförelsepris": "10.48 kr/kg",
-      "leverantör": "Axfood"
+      "leverantor": "Axfood"
   },
   {
       "namn": "Strösocker",
@@ -713,7 +713,7 @@
       "varumärke": "DanSukker",
       "innehållsförteckning": "Socker",
       "jämförelsepris": "11.95 kr/kg",
-      "leverantör": "Axfood"
+      "leverantor": "Axfood"
   },
   {
       "namn": "Bryggkaffe Mellanrost Löfbergs",
@@ -727,7 +727,7 @@
       "varumärke": "Lögbergs",
       "innehållsförteckning": "Kaffe",
       "jämförelsepris": "146.56 kr/kg",
-      "leverantör": "Axfood"
+      "leverantor": "Axfood"
   },
   {
       "namn": "Grönt te Earl Grey 25-p Twinings",
@@ -741,7 +741,7 @@
       "varumärke": "Twinings",
       "innehållsförteckning": "Grönt te, aromer",
       "jämförelsepris": "1.44 kr/st",
-      "leverantör": "Out of home"
+      "leverantor": "Out of home"
   },
   {
       "namn": "Juice Apelsin God Morgon",
@@ -755,7 +755,7 @@
       "varumärke": "God Morgon",
       "innehållsförteckning": "Apelsinjuice med fruktkött från koncentrat. Pastöriserad",
       "jämförelsepris": "33.95 kr/l",
-      "leverantör": "Axfood"
+      "leverantor": "Axfood"
   },
   {
       "namn": "Öl 3,5% 33cl 6-p Norrlands Guld",
@@ -769,7 +769,7 @@
       "varumärke": "Norrlands Guld",
       "innehållsförteckning": "Vatten, kornmalt, humle",
       "jämförelsepris": "26.70 kr/l",
-      "leverantör": "Menigo"
+      "leverantor": "Menigo"
   },
   {
       "namn": "Merlot Rött vin Alkoholfri 75cl Carl Jung",
@@ -783,6 +783,6 @@
       "varumärke": "Carl Jung",
       "innehållsförteckning": "Avalkoholiserat vin från Spanien, rektifierad koncentrerad druvmust, konserveringsmedel (sulfiter)",
       "jämförelsepris": "77.27 kr/l",
-      "leverantör": "Menigo"
+      "leverantor": "Menigo"
   }
 ]

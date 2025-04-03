@@ -40,11 +40,11 @@ async function seedDatabase() {
       brandMap[brand.namn] = brand._id;
     });
 
-    // 1. Ladda leverantörer från suppliers.json
+    // 1. Ladda leverantorer från suppliers.json
     const suppliersData = JSON.parse(fs.readFileSync("./src/data/suppliers.json"));
     const createdSuppliers = await Supplier.insertMany(suppliersData);
 
-    // 2. Välj en (eller slumpa) leverantör
+    // 2. Välj en (eller slumpa) leverantor
     //    Exempelvis: den första i listan
     const supplier = createdSuppliers[0];
 
