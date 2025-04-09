@@ -1,20 +1,8 @@
 import express from "express";
 import Product from "../models/Product.js";
-import { auth, adminAuth } from "../middleware/auth.js";
-import { readFileSync } from "fs";
-import { fileURLToPath } from "url";
-import { dirname, join } from "path";
+import { verifyToken, verifyAdmin } from "../middleware/auth.js";
 
 const router = express.Router();
-
-// Get directory path
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
-
-// Read products JSON file
-const productsJSON = JSON.parse(
-  readFileSync(join(__dirname, "../data/products.json"), "utf8")
-);
 
 // Get all products (öppet för alla)
 router.get("/", async (req, res) => {
@@ -25,7 +13,7 @@ router.get("/", async (req, res) => {
       .populate("leverantor", "namn");
     res.json(products);
   } catch (error) {
-    res.status(500).json({ error: error.message });
+    res.status(500).json({ error: "Kunde inte hämta produkter: " + error.message });
   }
 });
 
@@ -37,22 +25,17 @@ router.get("/:id", async (req, res) => {
       .populate("varumarke", "namn")
       .populate("leverantor", "namn");
     if (!product) {
-      return res.status(404).json({ error: "Produkten hittades inte." });
+      return res.status(404).json({ error: "Produkten hittades inte" });
     }
     res.json(product);
   } catch (error) {
-    res.status(500).json({ error: error.message });
+    res.status(500).json({ error: "Kunde inte hämta produkten: " + error.message });
   }
 });
 
 // Create product (endast admin)
-router.post("/", auth, adminAuth, async (req, res) => {
+router.post("/", verifyToken, verifyAdmin, async (req, res) => {
   try {
-    // Enkel validering: exempelvis kräver "namn" & "pris"
-    if (!req.body.namn || req.body.pris === undefined) {
-      return res.status(400).json({ error: "Fälten 'namn' och 'pris' måste anges." });
-    }
-
     const product = new Product(req.body);
     await product.save();
     
@@ -64,19 +47,14 @@ router.post("/", auth, adminAuth, async (req, res) => {
       
     res.status(201).json(populatedProduct);
   } catch (error) {
-    res.status(400).json({ error: error.message });
+    res.status(400).json({ error: "Kunde inte skapa produkt: " + error.message });
   }
 });
 
 // Update product (endast admin)
-router.put("/:id", auth, adminAuth, async (req, res) => {
+router.put("/:id", verifyToken, verifyAdmin, async (req, res) => {
   try {
-    // Enkel validering
-    if (!req.body.namn || req.body.pris === undefined) {
-      return res.status(400).json({ error: "Fälten 'namn' och 'pris' måste anges." });
-    }
-
-    const updatedProduct = await Product.findByIdAndUpdate(
+    const product = await Product.findByIdAndUpdate(
       req.params.id,
       req.body,
       { new: true, runValidators: true }
@@ -84,26 +62,25 @@ router.put("/:id", auth, adminAuth, async (req, res) => {
      .populate("varumarke", "namn")
      .populate("leverantor", "namn");
 
-    if (!updatedProduct) {
-      return res.status(404).json({ error: "Produkten hittades inte." });
+    if (!product) {
+      return res.status(404).json({ error: "Produkten hittades inte" });
     }
-
-    res.json(updatedProduct);
+    res.json(product);
   } catch (error) {
-    res.status(400).json({ error: error.message });
+    res.status(400).json({ error: "Kunde inte uppdatera produkt: " + error.message });
   }
 });
 
 // Delete product (endast admin)
-router.delete("/:id", auth, adminAuth, async (req, res) => {
+router.delete("/:id", verifyToken, verifyAdmin, async (req, res) => {
   try {
-    const deletedProduct = await Product.findByIdAndDelete(req.params.id);
-    if (!deletedProduct) {
-      return res.status(404).json({ error: "Produkten hittades inte." });
+    const product = await Product.findByIdAndDelete(req.params.id);
+    if (!product) {
+      return res.status(404).json({ error: "Produkten hittades inte" });
     }
-    res.json({ message: "Produkten har tagits bort." });
+    res.json({ message: "Produkten har tagits bort" });
   } catch (error) {
-    res.status(500).json({ error: error.message });
+    res.status(500).json({ error: "Kunde inte ta bort produkt: " + error.message });
   }
 });
 
