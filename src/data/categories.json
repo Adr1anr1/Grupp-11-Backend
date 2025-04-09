@@ -1,12 +1,15 @@
 [
-  { "namn": "frukter" },
-  { "namn": "ekologisk" },
-  { "namn": "grönsaker" },
-  { "namn": "exotisk" },
-  { "namn": "kött" },
-  { "namn": "fisk" },
-  { "namn": "mejeri" },
-  { "namn": "bröd" },
-  { "namn": "torrvaror" },
-  { "namn": "dryck" }
+  { "namn": "Frukter" },
+  { "namn": "Ekologisk" },
+  { "namn": "Grönsaker" },
+  { "namn": "Exotisk" },
+  { "namn": "Kött" },
+  { "namn": "Fisk" },
+  { "namn": "Mejeri" },
+  { "namn": "Bröd & Kakor" },
+  { "namn": "Torrvaror" },
+  { "namn": "Dryck" },
+  { "namn": "Konserverat"},
+  { "namn": "Frysta"},
+  { "namn": "Rotfrukter"}
 ]
