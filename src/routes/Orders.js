@@ -11,28 +11,28 @@ router.post('/', async (req, res) => {
     const {
       produkter,
       totalsumma,
-      förnamn,
+      fornamn,
       efternamn,
       gatuadress,
       postnr,
       postort,
       mobil,
       mejl,
-      anmärkning
+      anmarkning
     } = req.body;
 
     // Skapa ny order
     const order = new Order({
       produkter,
       totalsumma,
-      förnamn,
+      fornamn,
       efternamn,
       gatuadress,
       postnr,
       postort,
       mobil,
       mejl,
-      anmärkning
+      anmarkning
     });
 
     // Spara i databasen

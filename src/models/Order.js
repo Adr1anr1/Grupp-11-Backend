@@ -21,14 +21,14 @@ const orderSchema = new mongoose.Schema({
   },
 
   // Kunduppgifter
-  förnamn: { type: String, required: true },
+  fornamn: { type: String, required: true },
   efternamn: { type: String, required: true },
   gatuadress: { type: String, required: true },
   postnr: { type: String, required: true },
   postort: { type: String, required: true },
   mobil: { type: String, required: true },
   mejl: { type: String, required: true },
-  anmärkning: { type: String }, // valfri
+  anmarkning: { type: String }, // valfri
 
   // Statusfält
   status: {
