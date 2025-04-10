@@ -8,6 +8,8 @@ import Supplier from "../src/models/Supplier.js";
 
 dotenv.config();
 
+//Random comment 
+
 async function seedDatabase() {
   try {
     await mongoose.connect(process.env.MONGODB_URI);
