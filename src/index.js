@@ -48,6 +48,10 @@ app.get('/api', (req, res) => {
       },
       suppliers: {
         "GET /api/suppliers": "Get all suppliers"
+      },
+      orders: {
+        "GET /api/orders": "Get all orders (Admin only)",
+        "POST /api/orders": "Create a new order"
       }
     },
     authentication: "Use Bearer token in Authorization header for protected routes"
