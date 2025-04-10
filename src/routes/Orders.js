@@ -93,4 +93,56 @@ router.put('/:id/status', auth, adminAuth, async (req, res) => {
   }
 });
 
+// PATCH /api/orders/:id - Uppdatera orderstatus (endast admin)
+router.patch('/:id', auth, adminAuth, async (req, res) => {
+  try {
+    const { status } = req.body;
+    
+    // Validera att status är en giltig status
+    const giltiga_statusar = ['ny', 'betald', 'plockas', 'plockad', 'levererad'];
+    if (!status || !giltiga_statusar.includes(status)) {
+      return res.status(400).json({ 
+        error: "Ogiltig status. Måste vara en av: " + giltiga_statusar.join(', ') 
+      });
+    }
+    
+    // Uppdatera endast status
+    const updatedOrder = await Order.findByIdAndUpdate(
+      req.params.id,
+      { status },
+      { new: true, runValidators: true }
+    ).populate({
+      path: 'produkter.produktId',
+      model: 'Product',
+      select: 'namn pris bild beskrivning mangd varumarke'
+    });
+    
+    if (!updatedOrder) {
+      return res.status(404).json({ error: "Beställningen hittades inte." });
+    }
+    
+    res.status(200).json(updatedOrder);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
+
+// DELETE /api/orders/:id - Ta bort en beställning (endast admin)
+router.delete('/:id', auth, adminAuth, async (req, res) => {
+  try {
+    const deletedOrder = await Order.findByIdAndDelete(req.params.id);
+    
+    if (!deletedOrder) {
+      return res.status(404).json({ error: "Beställningen hittades inte." });
+    }
+    
+    res.json({ 
+      message: "Beställningen har tagits bort.",
+      deletedOrder
+    });
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
+
 export default router;
