@@ -63,4 +63,34 @@ router.post('/', async (req, res) => {
   }
 });
 
+// Uppdatera orderstatus (endast admin)
+router.put('/:id/status', auth, adminAuth, async (req, res) => {
+  try {
+    const { status } = req.body;
+    
+    // Validera status
+    if (!status || !['ny', 'betald', 'plockas', 'plockad', 'levererad'].includes(status)) {
+      return res.status(400).json({ error: "Ogiltig status" });
+    }
+    
+    const updatedOrder = await Order.findByIdAndUpdate(
+      req.params.id,
+      { status },
+      { new: true, runValidators: true }
+    ).populate({
+      path: 'produkter.produktId',
+      model: 'Product',
+      select: 'namn pris bild beskrivning'
+    });
+    
+    if (!updatedOrder) {
+      return res.status(404).json({ error: "Beställningen hittades inte" });
+    }
+    
+    res.status(200).json(updatedOrder);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
+
 export default router;
