@@ -1,8 +1,19 @@
 // routes/orders.js
 import express from 'express';
 import Order from '../models/Order.js';
+import { auth, adminAuth } from '../middleware/auth.js';
 
 const router = express.Router();
+
+// GET /api/orders - Hämta alla beställningar (endast admin)
+router.get('/', auth, adminAuth, async (req, res) => {
+  try {
+    const orders = await Order.find();
+    res.status(200).json(orders);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
 
 // POST /api/orders - Skapa ny beställning
 router.post('/', async (req, res) => {
