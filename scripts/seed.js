@@ -8,8 +8,6 @@ import Supplier from "../src/models/Supplier.js";
 
 dotenv.config();
 
-//Random comment 
-
 async function seedDatabase() {
   try {
     await mongoose.connect(process.env.MONGODB_URI);
@@ -42,29 +40,36 @@ async function seedDatabase() {
       brandMap[brand.namn] = brand._id;
     });
 
-    // 1. Ladda leverantorer från suppliers.json
+    // Ladda leverantörer från suppliers.json
     const suppliersData = JSON.parse(fs.readFileSync("./src/data/suppliers.json"));
     const createdSuppliers = await Supplier.insertMany(suppliersData);
 
-    // 2. Välj en (eller slumpa) leverantor
-    //    Exempelvis: den första i listan
-    const supplier = createdSuppliers[0];
+    // Skapa leverantör-lookup
+    const supplierMap = {};
+    createdSuppliers.forEach(supplier => {
+      supplierMap[supplier.namn] = supplier._id;
+    });
 
     // Mappa produkter
-    const productsWithRefs = productsData.map(p => ({
-      namn: p.namn || p.name,
-      beskrivning: p.beskrivning || p.description || "",
-      pris: p.pris || p.price,
-      kategorier: (p.kategorier || p.category || [])
-        .map(namn => categoryMap[namn.toLowerCase()])
-        .filter(Boolean),
-      varumarke: brandMap[p["varumärke"]] || null,
-      leverantor: supplier._id, // <-- Nu är variabeln supplier definierad
-      jamforpris: p["jämförelsepris"] || "",
-      innehallsforteckning: p["innehållsförteckning"] || "",
-      bild: p.bild || "",
-      mangd: p.mängd || p.mangd || ""
-    }));
+    const productsWithRefs = productsData.map(p => {
+      // Hämta leverantörsnamn från produkten
+      const leverantorNamn = p["leverantör"] || p.leverantör || "Ingen Leverantör Angiven"; // Defaulta till Ingen Leverantör Angiven om leverantör saknas
+      
+      return {
+        namn: p.namn || p.name,
+        beskrivning: p.beskrivning || p.description || "",
+        pris: p.pris || p.price,
+        kategorier: (p.kategorier || p.category || [])
+          .map(namn => categoryMap[namn.toLowerCase()])
+          .filter(Boolean),
+        varumarke: brandMap[p["varumärke"]] || null,
+        leverantor: supplierMap[leverantorNamn], // Använd korrekt leverantörs-ID baserat på namn
+        jamforpris: p["jämförelsepris"] || "",
+        innehallsforteckning: p["innehållsförteckning"] || "",
+        bild: p.bild || "",
+        mangd: p.mängd || p.mangd || ""
+      };
+    });
 
     await Product.insertMany(productsWithRefs);
 
