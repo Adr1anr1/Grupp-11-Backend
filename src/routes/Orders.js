@@ -8,7 +8,11 @@ const router = express.Router();
 // GET /api/orders - Hämta alla beställningar (endast admin)
 router.get('/', auth, adminAuth, async (req, res) => {
   try {
-    const orders = await Order.find();
+    const orders = await Order.find().populate({
+      path: 'produkter.produktId',
+      model: 'Product',
+      select: 'namn pris bild beskrivning mangd varumarke'
+    });
     res.status(200).json(orders);
   } catch (error) {
     res.status(500).json({ error: error.message });
