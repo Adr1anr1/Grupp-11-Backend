@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-
+//Ska testa att reverta git
 const productSchema = new mongoose.Schema({
   namn: {
     type: String,
