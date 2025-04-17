@@ -13,7 +13,10 @@ const productSchema = new mongoose.Schema({
   pris: {
     type: Number,
     required: true,
-    min: 0
+    min: 0,
+    get: function(num) {
+      return num.toString().replace('.', ',');
+    }
   },
   kategorier: [{
       type: mongoose.Schema.Types.ObjectId,
@@ -28,7 +31,11 @@ const productSchema = new mongoose.Schema({
       ref: "Supplier"
     },
     jamforpris: {
-      type: String
+      type: String,
+      get: function(text) {
+        if (!text) return text;
+        return text.replace(/(\d+)\.(\d+)/g, '$1,$2');
+      }
     },
     innehallsforteckning: {
       type: String
@@ -38,10 +45,11 @@ const productSchema = new mongoose.Schema({
     },
     mangd: {
       type: String
-    },
-  
+    }
 }, {
   timestamps: true,
+  toJSON: { getters: true },
+  toObject: { getters: true }
 });
 
 export default mongoose.model("Product", productSchema);
