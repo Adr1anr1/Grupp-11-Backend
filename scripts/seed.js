@@ -7,7 +7,7 @@ import Brand from "../src/models/Brand.js";
 import Supplier from "../src/models/Supplier.js";
 
 dotenv.config();
-
+//tjenare testing
 async function seedDatabase() {
   try {
     await mongoose.connect(process.env.MONGODB_URI);
