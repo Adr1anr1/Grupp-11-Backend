@@ -39,6 +39,10 @@ const productSchema = new mongoose.Schema({
     mangd: {
       type: String
     },
+    naringsvarde: {
+      type: String,
+      default: ""
+    }
   
 }, {
   timestamps: true,
