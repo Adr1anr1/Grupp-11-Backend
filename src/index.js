@@ -5,6 +5,7 @@ import dotenv from 'dotenv';
 import authRoutes from './routes/auth.js';
 import productRoutes from './routes/products.js';
 import categoryRoutes from './routes/categories.js';
+import orderRoutes from './routes/Orders.js';
 import brandRoutes from './routes/brands.js';
 import supplierRoutes from './routes/suppliers.js';
 
@@ -15,8 +16,11 @@ const PORT = process.env.PORT || 3000;
 //hej 
 // Middleware
 app.use(cors({
-  origin: 'https://webshop-2025-g11-fe1.vercel.app',
-  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  origin: [
+    'https://webshop-2025-g11-fe1.vercel.app', 
+    'https://hakim-livs-backend-fork.vercel.app'
+  ],
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization'],
 }));
 
@@ -47,6 +51,10 @@ app.get('/api', (req, res) => {
       },
       suppliers: {
         "GET /api/suppliers": "Get all suppliers"
+      },
+      orders: {
+        "GET /api/orders": "Get all orders (Admin only)",
+        "POST /api/orders": "Create a new order"
       }
     },
     authentication: "Use Bearer token in Authorization header for protected routes"
@@ -57,6 +65,7 @@ app.get('/api', (req, res) => {
 app.use('/api/auth', authRoutes);
 app.use('/api/products', productRoutes);
 app.use('/api/categories', categoryRoutes);
+app.use('/api/orders', orderRoutes);
 app.use('/api/brands', brandRoutes);
 app.use('/api/suppliers', supplierRoutes);
 

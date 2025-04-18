@@ -2,7 +2,6 @@
 import express from 'express';
 import Order from '../models/Order.js';
 import { auth, adminAuth } from '../middleware/auth.js';
-import mongoose from 'mongoose';
 
 const router = express.Router();
 
@@ -146,67 +145,4 @@ router.delete('/:id', auth, adminAuth, async (req, res) => {
   }
 });
 
-const orderSchema = new mongoose.Schema({
-  produkter: [{
-    produktId: {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: 'Product',
-      required: true
-    },
-    antal: {
-      type: Number,
-      required: true,
-      min: 1
-    }
-  }],
-  totalsumma: {
-    type: Number,
-    required: true,
-    min: 0
-  },
-  fornamn: {
-    type: String,
-    required: true
-  },
-  efternamn: {
-    type: String,
-    required: true
-  },
-  gatuadress: {
-    type: String,
-    required: true
-  },
-  postnr: {
-    type: String,
-    required: true
-  },
-  postort: {
-    type: String,
-    required: true
-  },
-  mobil: {
-    type: String,
-    required: true
-  },
-  mejl: {
-    type: String,
-    required: true
-  },
-  anmarkning: {
-    type: String,
-    default: ''
-  },
-  status: {
-    type: String,
-    enum: ['ny', 'betald', 'plockas', 'plockad', 'levererad'],
-    default: 'ny'
-  },
-  datum: {
-    type: Date,
-    default: Date.now
-  }
-});
-
-const Order = mongoose.model('Order', orderSchema);
-
-export default router; 
+export default router;

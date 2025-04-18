@@ -1,804 +1,804 @@
 [
-  {
-      "namn": "Äpple Granny Smith",
-      "beskrivning": "Granny Smith äpple från Nya Zeeland",
-      "pris": 6.45,
-      "kategorier": [
-          "Frukter",
-          "Ekologisk"
-      ],
-      "bild": "https://assets.axfood.se/image/upload/f_auto,t_500/07311042004738_C1C0_s01",
-      "mängd": "Ca 180g",
-      "varumärke": "Granny Smith",
-      "innehållsförteckning": "Äpple",
-      "jämförelsepris": "33,95 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "namn": "Päron Conference",
-      "beskrivning": "Conference päron från Belgien",
-      "pris": 6.15,
-      "kategorier": [
-          "Frukter",
-          "Ekologisk"
-      ],
-      "bild": "https://brondsholm.se/27962-large_default/pron-13cm-grn-konstgjord-frukt.webp",
-      "mängd": "Ca 220g",
-      "varumärke": "Conference",
-      "innehållsförteckning": "Päron",
-      "jämförelsepris": "27,95 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "namn": "Banan Eko",
-      "beskrivning": "gul banan från ecuador",
-      "pris": 4.85,
-      "kategorier": [
-          "Frukter",
-          "Ekologisk"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ba2f23d3-1525-45e7-9163-6a5671156f94/1280x1280.webp",
-      "mängd": "Ca 180g",
-      "varumärke": "Eko",
-      "innehållsförteckning": "Banan",
-      "jämförelsepris": "24,95 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "namn": "Tomat kvist",
-      "beskrivning": "ekologisk röd tomat från Nederländerna",
-      "pris": 5.87,
-      "kategorier": [
-          "Grönsaker",
-          "Ekologisk"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8af94707-5620-444e-9682-5379fa521da4/1280x1280.webp",
-      "mängd": "Ca 250g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Tomat",
-      "jämförelsepris": "48,95 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "namn": "Gurka",
-      "beskrivning": "ekologisk grön gurka från Spanien",
-      "pris": 17.95,
-      "kategorier": [
-          "Grönsaker",
-          "Ekologisk"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1f9e3ec1-11c5-4b89-8487-ce47bf9cb285/1280x1280.webp",
-      "mängd": "Ca 300g",
-      "varumärke": "Eko",
-      "innehållsförteckning": "Gurka",
-      "jämförelsepris": "59.33 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "namn": "Isbergssallat eko",
-      "beskrivning": "ekologisk grön sallad från spanien",
-      "pris": 17.14,
-      "kategorier": [
-          "Grönsaker",
-          "Ekologisk"
-      ],
-      "bild": "https://upload.wikimedia.org/wikipedia/commons/6/69/Iceberg1.jpg",
-      "mängd": "Ca 440g",
-      "varumärke": "Eko",
-      "innehållsförteckning": "Sallat",
-      "jämförelsepris": "38.95 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "namn": "Vitkål",
-      "beskrivning": "Vitkål från sverige",
-      "pris": 24.86,
-      "kategorier": [
-          "Grönsaker"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/4a799b81-56fe-481d-b3da-26fa61c11bc1/1280x1280.webp",
-      "mängd": "Ca 830g",
-      "varumärke": "Eko",
-      "innehållsförteckning": "Vitkål",
-      "jämförelsepris": "29.95 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "namn": "Morötter Tvättade ",
-      "beskrivning": "morot från sverige",
-      "pris": 1.60,
-      "kategorier": [
-          "Grönsaker"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0608191f-4243-4833-84b7-5aa2c5db384a/1280x1280.webp",
-      "mängd": "Ca 100g",
-      "varumärke": "Eko",
-      "innehållsförteckning": "Morot",
-      "jämförelsepris": "15.95 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "namn": "Potatis",
-      "beskrivning": "Potatis från sverige",
-      "pris": 1.90,
-      "kategorier": [
-          "Rotfrukter",
-          "Grönsaker"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/995db740-cceb-4ce9-80e6-26775eaaa704/1280x1280.webp",
-      "mängd": "Ca 100g",
-      "varumärke": "Eko",
-      "innehållsförteckning": "Potatis",
-      "jämförelsepris": "19.95 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "namn": "Apelsin Navel",
-      "beskrivning": "Apelsin från Spanien",
-      "pris": 12.46,
-      "kategorier": [
-          "Frukter"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/63f26021-455f-44f3-a769-ae9b2675bde1/1280x1280.webp",
-      "mängd": "Ca 290g",
-      "varumärke": "Navel",
-      "innehållsförteckning": "Apelsin",
-      "jämförelsepris": "42.95 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "namn": "Kiwi",
-      "beskrivning": "ekologisk grön kiwi från Grekland",
-      "pris": 8.95,
-      "kategorier": [
-          "Frukter",
-          "Ekologisk"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8112bb03-c909-4934-9340-c7d4cf11fb9a/1280x1280.webp",
-      "mängd": "Ca 125g",
-      "varumärke": "Eko",
-      "innehållsförteckning": "Kiwi",
-      "jämförelsepris": "71.95 kr/kg",
-      "leverantör": "Axfood"
-  },
-  {
-      "namn": "Gröna druvor Thompson Seedless ",
-      "beskrivning": "Gröna druvor från Peru",
-      "pris": 39.95,
-      "kategorier": [
-          "Frukter"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/589e51fd-4e21-4ed7-b702-bcc3db3e26d9/1280x1280.webp",
-      "mängd": "Ca 500g",
-      "varumärke": "Thompson Seedless",
-      "innehållsförteckning": "Druvor",
-      "jämförelsepris": "79.90 kr/kg",
-      "leverantör": "Axfood"
-  },
-  {
-      "namn": "Röda druvor Crimson ",
-      "beskrivning": "Röda druvor från Sydafrika",
-      "pris": 30.00,
-      "kategorier": [
-          "Frukter"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/36072ec6-a12b-4c54-a650-ec0f0d799451/1280x1280.webp",
-      "mängd": "Ca 500g",
-      "varumärke": "Crimson",
-      "innehållsförteckning": "Druvor",
-      "jämförelsepris": "60.00 kr/kg",
-      "leverantör": "Axfood"
-  },
-  {
-      "namn": "Persika Paraguayo",
-      "beskrivning": "persika från Chile",
-      "pris": 47.95,
-      "kategorier": [
-          "Frukter"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/44f40999-1e45-4a62-8c32-37d54b25d692/1280x1280.webp",
-      "mängd": "Ca 500g",
-      "varumärke": "Paraguayo",
-      "innehållsförteckning": "Persika",
-      "jämförelsepris": "95.90 kr/kg",
-      "leverantör": "Axfood"
-  },
-  {
-      "namn": "Plommon",
-      "beskrivning": "Röda plommon från Frankrike",
-      "pris": 39.95,
-      "kategorier": [
-          "Frukter"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/470a82e4-adba-4935-9a4a-a22934d2331b/1280x1280.webp",
-      "mängd": "Ca 500g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Plommon",
-      "jämförelsepris": "79.90 kr/kg",
-      "leverantör": "Axfood"
-  },
-  {
-      "namn": "Mango",
-      "beskrivning": "Mango från Peru",
-      "pris": 16.95,
-      "kategorier": [
-          "Frukter",
-          "Exotisk"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1f7e0ef3-591b-4d1c-957a-b69d7952d17b/1280x1280.webp",
-      "mängd": "Ca 660g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Mango",
-      "jämförelsepris": "25.90 kr/kg",
-      "leverantör": "Axfood"
-  },
-  {
-      "namn": "Ananas",
-      "beskrivning": "färsk ananas från Costa Rica",
-      "pris": 29.95,
-      "kategorier": [
-          "Frukter",
-          "Exotisk"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/6fd0f513-ed71-483f-aca2-d3e3455ba623/200x200.webp",
-      "mängd": "Ca 950g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Ananas",
-      "jämförelsepris": "31.58 kr/kg",
-      "leverantör": "Axfood"
-  },
-  {
-      "namn": "Paprika Röd",
-      "beskrivning": "Röd paprika från Nederländerna",
-      "pris": 15.74,
-      "kategorier": [
-          "Grönsaker"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/3cba6228-df72-405d-a1b9-4a76fd42d4c6/1280x1280.webp",
-      "mängd": "Ca 225g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Paprika",
-      "jämförelsepris": "69.95 kr/kg",
-      "leverantör": "Axfood"
-  },
-  {
-      "namn": "Paprika Gul",
-      "beskrivning": "Gul paprika från Nederländerna",
-      "pris": 12.59,
-      "kategorier": [
-          "Grönsaker"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1439859e-a140-4472-a46d-e1b3c5743930/1280x1280.webp",
-      "mängd": "Ca 180g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Paprika",
-      "jämförelsepris": "69.95 kr/kg",
-      "leverantör": "Axfood"
-  },
-  {
-      "namn": "sötpotatis",
-      "beskrivning": "Sötpotatis från Spanien",
-      "pris": 10.48,
-      "kategorier": [
-          "Rotfrukter",
-          "Grönsaker"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ebba5794-843f-4e7c-97c1-461b3e4e831f/200x200.webp",
-      "mängd": "Ca 350g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Sötpotatis",
-      "jämförelsepris": "29.95 kr/kg",
-      "leverantör": "Axfood"
-  },
-  {
-      "namn": "Babyspenat Ekologisk ",
-      "beskrivning": "ekologisk spenat från Spanien",
-      "pris": 17.95,
-      "kategorier": [
-          "Grönsaker",
-          "Ekologisk"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/7de47a42-6270-4590-bf8b-0551defa358e/1280x1280.webp",
-      "mängd": "Ca 65g",
-      "varumärke": "Eko",
-      "innehållsförteckning": "Spenat",
-      "jämförelsepris": "276.92 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "namn": "Broccoli",
-      "beskrivning": "färsk broccoli från Spanien",
-      "pris": 16.95,
-      "kategorier": [
-          "Grönsaker"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d9cdd9c5-4c95-41c6-9c59-7b6a82df9ac9/200x200.webp",
-      "mängd": "Ca 250g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Broccoli",
-      "jämförelsepris": "67.80 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "namn": "Blomkål",
-      "beskrivning": "Blomkål från Sverige",
-      "pris": 29.66,
-      "kategorier": [
-          "Grönsaker"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/15d2eb49-50fe-4a5b-b7cf-5243e7dd68d6/200x200.webp",
-      "mängd": "Ca 900g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Blomkål",
-      "jämförelsepris": "32.95 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "namn": "Aubergine",
-      "beskrivning": "Aubergine från Spanien",
-      "pris": 13.95,
-      "kategorier": [
-          "Grönsaker"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/da601c97-8736-4da6-8949-106520548922/200x200.webp",
-      "mängd": "Ca 225g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Aubergine",
-      "jämförelsepris": "61.95 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "namn": "Zucchini",
-      "beskrivning": "grön zucchini från Sverige",
-      "pris": 17.04,
-      "kategorier": [
-          "Grönsaker"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/f4f05c9b-d9ad-405d-a325-ae3531173679/200x200.webp",
-      "mängd": "Ca 275g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Zucchini",
-      "jämförelsepris": "61.95 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "namn": "Lök gul",
-      "beskrivning": "gul lök från Sverige",
-      "pris": 2.33,
-      "kategorier": [
-          "Grönsaker"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/02c14025-a793-4534-a041-6b1b50cc4e34/200x200.webp",
-      "mängd": "Ca 180g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Lök",
-      "jämförelsepris": "12.95 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "namn": "Vitlök Morado",
-      "beskrivning": "Färsk vitlök från Spanien",
-      "pris": 12.95,
-      "kategorier": [
-          "Grönsaker"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0647ad9b-1763-47c1-b654-9e5959dd7e78/200x200.webp",
-      "mängd": "Ca 75g",
-      "varumärke": "Morado",
-      "innehållsförteckning": "Vitlök",
-      "jämförelsepris": "172.67 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "namn": "Ärtor Findus",
-      "beskrivning": "Findus Svenska Ärter kommer ifrån vår egna ärtsort Ebba som odlas i Dalsland. Ebba-ärterna är smakrika och är alldeles extra söta. Ärterna fryses ned kort efter att de skördats, och gör att ärterna behåller sin ljuvliga sötma och näringsvärde så att du kan njuta av ärterna året om. Findus Ärter innehåller fibrer, protein och C-vitaminer som hjälper till att göra varje måltid hälsosammare. Upplev ärterna i en klassisk ärtsoppa eller varför inte en i en nyttig smoothie till frukosten. För att få en riklig skörd med de bästa ärterna är processen innan noggrant planerad, och Findus ser alltid till att det sker med minsta möjliga klimatpåverkan. Med lång erfarenhet inom odling vet Findus hur man väljer ut de bästa åkrarna, plantorna och tid för sådd. Tips! Om du gillar Findus Ärter så finns en större förpackning att köpa.",
-      "pris": 26.95,
-      "kategorier": [
-          "Grönsaker",
-          "Frysta"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/b89cd7e6-9615-4dc5-b28c-0dc6276136d8/200x200.webp",
-      "mängd": "Ca 600g",
-      "varumärke": "Findus",
-      "innehållsförteckning": "Ärter. Klimatcertifierad Svenskt Sigill-råvara",
-      "jämförelsepris": "44.92 kr/kg",
-      "leverantör": "Out of home"
-  },
-  {
-      "namn": " Vita bönor",
-      "beskrivning": "Heinz Vita bönor lanserades redan 1905, bönor är både mättande och dessutom mycket nyttiga. Våra klassiska Heinz Bönor är milt kryddade och tillreds med tomatsås. En standardingrediens både i Chili con carne och en äkta Engelsk frukost, där Heinz Bönor serveras tillsammans med rostat bröd, ägg, bacon och olika sorters korvar.",
-      "pris": 11.95,
-      "kategorier": [
-          "Grönsaker",
-          "Konserverat"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8155124c-3544-485b-9c97-127f1bb4894a/200x200.webp",
-      "mängd": "Ca 415g",
-      "varumärke": "Heinz",
-      "innehållsförteckning": "Bönor (50%), vatten, tomatpuré (15%), socker, modifierad majsstärkelse, ättika, salt, krydd- och örtextrakt",
-      "jämförelsepris": "28.75 kr/kg",
-      "leverantör": "Out of home"
-  },
-  {
-      "namn": "Majs 3 pack Green Giant",
-      "beskrivning": "Majs från Green Giant",
-      "pris": 28.95,
-      "kategorier": [
-          "Grönsaker",
-          "Konserverat"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/2405bef0-e996-48d3-a129-93cdab1fb2ff/1280x1280.webp",
-      "mängd": "Ca 480g",
-      "varumärke": "Green Giant",
-      "innehållsförteckning": "Majs (70%), vatten, socker, salt, konserveringsmedel (E211)",
-      "jämförelsepris": "60.21 kr/kg",
-      "leverantör": "Out of home"
-  },
-  {
-      "namn": "Finkrossade Tomater Mutti",
-      "beskrivning": "Finkrossade tomater från Mutti",
-      "pris": 43.95,
-      "kategorier": [
-          "Grönsaker",
-          "Konserverat"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/70864b9e-d541-400a-b135-b5c77102181a/1280x1280.webp",
-      "mängd": "Ca 1200g",
-      "varumärke": "Mutti",
-      "innehållsförteckning": "Finkrossade tomater (99%), salt, konserveringsmedel (E211)",
-      "jämförelsepris": "36.58 kr/kg",
-      "leverantör": "Out of home"
-  },
-  {
-      "name": "Nötfärs",
-      "price": 73.95,
-      "kategorier": [
-          "Kött"
-      ],
-      "beskrivning": "nötfärs från Sverige",
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/4cbf0adc-add3-4ede-b8b7-4ed6dddc6517/1280x1280.webp",
-      "mängd": "500g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Nötfärs",
-      "jämförelsepris": "147.49 kr/kg",
-      "leverantör": "Menigo"
-  },
-  {
-      "name": "kycklingfilé",
-      "price": 119,
-      "kategorier": [
-          "Kött"
-      ],
-      "beskrivning": "färsk kycklingfilé från Sverige",
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/7724614a-a404-4702-b2d6-40559b6635d9/1280x1280.webp",
-      "mängd": "1000 g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Kycklingfilé",
-      "jämförelsepris": "119.00 kr/kg",
-      "leverantör": "Menigo"
-  },
-  {
-      "name": "Blandfärs",
-      "price": 172.80,
-      "kategorier": [
-          "Kött"
-      ],
-
-      "beskrivning": "Blandfärs från sverige",
-      "bild": "https://d1ax460061ulao.cloudfront.net/1000x1000/7/d/7ddf43d755f8a1afb00327967d7912f9.jpg",
-      "mängd": "1600 g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Blandfärs",
-      "jämförelsepris": "108.00 kr/kg",
-      "leverantör": "Menigo"
-  },
-  {
-      "name": "Kycklinglårfilé Färsk",
-      "price": 112,
-      "kategorier": [
-          "Kött"
-      ],
-      "beskrivning": "Kyckling från sverige",
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/dc3489cc-f1b8-4e15-82fa-4185c85a538e/1280x1280.webp",
-      "mängd": "720 g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Kycklinglårfile",
-      "jämförelsepris": "155.56 kr/kg",
-      "leverantör": "Menigo"
-  },
-  {
-      "name": "Fläskytterfilé",
-      "price": 114.00,
-      "kategorier": [
-          "Kött"
-      ],
-      "beskrivning": "Fläskkött från sverige",
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/bbb85b82-8bc6-4922-8e37-03c64dc4d172/1280x1280.webp",
-      "mängd": "1000 g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Fläskytterfilé",
-      "jämförelsepris": "114.56 kr/kg",
-      "leverantör": "Menigo"
-  },
-  {
-      "name": "Lax",
-      "price": 327,
-      "kategorier": [
-          "Fisk"
-      ],
-      "beskrivning": "Lax från norge",
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/c4c42a74-005f-4fdf-90b0-3afbfb5d83f3/1280x1280.webp",
-      "mängd": "1200 g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Lax",
-      "jämförelsepris": "273.50 kr/kg",
-      "leverantör": "Kvalitet fisk"
-  },
-  {
-      "name": "Räkor",
-      "price": 92.95,
-      "kategorier": [
-          "Fisk"
-      ],
-      "beskrivning": "Räkor från sverige",
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/efed4b15-73b2-408b-bf45-305d2b2bd0e7/1280x1280.webp",
-      "mängd": "500 g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Räkor",
-      "jämförelsepris": "185.90 kr/kg",
-      "leverantör": "Kvalitet fisk"
-  },
-  {
-      "name": "Tonfisk i vatten",
-      "price": 25.95,
-      "kategorier": [
-          "Fisk"
-      ],
-      "beskrivning": "Tonfisk från norge",
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/e94afe56-cf8c-48c3-be1e-5069eb772bd7/1280x1280.webp",
-      "mängd": "120 g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Tonfisk",
-      "jämförelsepris": "216.25 kr/kg",
-      "leverantör": "Kvalitet fisk"
-  },
-  {
-      "name": "Standard Mjölk",
-      "price": 22.95,
-      "kategorier": [
-          "Mejeri"
-      ],
-      "beskrivning": "ICA Standardmjölk är en fyllig och god mjölk med 3% fetthalt. Den passar att dricka till dagens alla måltider, är särskilt god till kakor och nästan en nödvändighet till sommarens jordgubbar. Dessutom kan du baka med den.",
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/da71234d-3ba8-4aa7-8334-f0ddf47c4d1e/1280x1280.webp",
-      "mängd": "1,5 l",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Högpastöriserad MJÖLK*, vitamin D.",
-      "jämförelsepris": "22.95 kr/l",
-      "leverantör": "ICA"
-  },
-  {
-      "name": "Hushållsost",
-      "price": 325.60,
-      "kategorier": [
-          "Mejeri"
-      ],
-      "beskrivning": "Arla® Hushållsost är Sveriges mest populära hårdost! Osten uppskattas för sin milda, gräddiga och lätt syrliga smak och den härliga, runda formen gör den perfekt att ställa fram och dela. Hushållsost äts främst som pålägg men är passar perfekt i matlagning och som tilltugg. Vår Hushållsost är tillverkad i Vium, Danmark, på mjölk från danska Arlagårdar.",
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/c54dd1e6-b1fb-4c47-9d13-40ce7e06e0c4/1280x1280.webp",
-      "mängd": "2200 g",
-      "varumärke": "Arla",
-      "innehållsförteckning": "Pastöriserad MJÖLK, salt, syrningskultur, ystenzym.",
-      "jämförelsepris": "148.00 kr/kg",
-      "leverantör": "Arla"
-  },
-  {
-      "name": "Yoghurt Vanilj",
-      "price": 36.95,
-      "kategorier": [
-          "Mejeri"
-      ],
-      "beskrivning": "Mild vaniljyoghurt med en len och krämig konsistens kombinerat med en fin, mjuk smak. Arla Ko® Mild yoghurt vanilj 2% räddar både frukost och mellanmål för hela familjen. God som den är, kombinera gärna med dina favorittillbehör som müsli, flingor, frukt eller bär. Vaniljyoghurt är en perfekt bas till smoothies. När du ser Arla Ko vet du att produkten görs på 100 procent svensk mjölk. I en praktisk förpackning som är enkel att förvara, hälla ur, tömma och återvinna.",
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/45241a7f-b21f-492f-a2da-f7bc09e9f9be/1280x1280.webp",
-      "mängd": "1500 g",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Högpastöriserad MJÖLK, socker 5%, MJÖLKPROTEIN, naturlig arom, vaniljextrakt, mild yoghurtkultur, vitamin D.",
-      "jämförelsepris": "24.63 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "name": "Glass Sea Salt Caramel",
-      "price": 58.95,
-      "kategorier": [
-          "Mejeri"
-      ],
-      "beskrivning": "Gräddig karamellglass med en swirl av karamell och havssalt. Passande för lågkolhydratskost, keto och diabetes men främst för alla som vill njuta och må bra på samma gång. No added sugar, no palm oil, just joy.",
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/5c805be1-1f7e-4b26-8aa6-2e4551ad0e33/1280x1280.webp",
-      "mängd": "0.473 l",
-      "varumärke": "Nick's",
-      "innehållsförteckning": "Koncentrerad skumMJÖLK/MÆLK, polydextros (fiber), sötningsmedel (xylitol), sötningsmedel (erytritol), MJÖLK/MÆLKprotein, GRÄDDE/KREM/FLØDE, vegetabilisk olja (kokos), löslig/oppløselig majsfiber, sötningsmedel (sorbitol), naturlig arom, modifierad stärkelse, (havs-) salt, fuktighetsbevarande medel (glycerol), stabiliseringsmedel (fruktkärnmjöl, guarkärnmjöl, karragenan), emulgeringsmedel (mono- och diglycerider av fettsyror), sötningsmedel (steviolglykosider), färgämnen (betakaroten, sockerkulör). Kan innehålla spår av GLUTEN, ÄGG, SOJA, SESAM, NÖTTER och JORDNÖTTER/PEANØTTER.",
-      "jämförelsepris": "156.34 kr/l",
-      "leverantör": "Nick's"
-  },
-  {
-      "name": "Tortillabröd Original 12-pack",
-      "price": 54.95,
-      "kategorier": [
-          "Bröd & Kakor"
-      ],
-      "beskrivning": "Mjuka tortillabröd av vete, storlek Large. En tortilla i en storlek som gör det enkelt att laga Tex Mex och mexikansk mat till familj och vänner. Santa Maria Tortilla Original Large är tortillas som passar till wraps, burritos, quesadillas och tacos. Denna tortilla går att njuta varm som kall, perfekt för utflykter, kalas, fest och fredagsmys.• En förpackning innehåller 12st tortillabröd, storlek Large• Santa Maria Tortilla Original finns även i storlek Small och Medium• Utan tillsatt socker • Tortillabröd går utmärkt att frysa• Lämplig även för vegan och vegetarisk matlagning.",
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/751165b5-3cc3-4f47-a345-e1d0bc251fb8/1280x1280.webp",
-      "mängd": "742 g",
-      "varumärke": "Santa Maria",
-      "innehållsförteckning": "VETEMJÖL (72%), vatten, rapsolja, fuktighetsbevarande medel (E422), salt, emulgeringsmedel (E471), bakpulver (natriumkarbonater), surhetsreglerande medel (citronsyra), sockerbetsfiber.",
-      "jämförelsepris": "74.00 kr/kg",
-      "leverantör": "Menigo"
-  },
-  {
-      "name": "Kex Original",
-      "price": 22.95,
-      "kategorier": [
-          "Bröd & Kakor"
-      ],
-      "beskrivning": "Ballerina är Sveriges mest älskade kaka och Göteborgs Kex populäraste varumärke. Det runda originalet har funnits sedan 1963. Oemotståndliga kakor med spröda kex och len nougatkräm. Nu med 25% mer fyllning för ännu godare smak. Givna kakor till fikat, kalaset eller utflykten! Ballerinas produkter är bakade utan palmolja.",
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/816f20ed-9e18-48c6-9186-cbe2f0c33a81/1280x1280.webp",
-      "mängd": "205 g",
-      "varumärke": "Ballerina",
-      "innehållsförteckning": "VETEMJÖL/HVEDEMEL, nougatfyllning 35 % (socker, fullhärdat kokosfett, vasslepulver/vallepulver från MJÖLK/MÆLK, HASSELNÖTTER/HASSELNØDDER 10 %, fettreducerat kakaopulver, emulgeringsmedel (SOJALECITIN), arom), socker, solrosolja/solsikkeolie, fettreducerat kakaopulver, bakpulver/hævemiddel (natriumbikarbonat, hjorthornssalt E503), invertsocker, salt, emulgeringsmedel (SOJALECITIN), arom (vanillin), KORNMALT/BYGMALT.",
-      "jämförelsepris": "112.20 kr/kg",
-      "leverantör": "Out of home"
-  },
-  {
-      "name": "Oreo Original 154g",
-      "price": 30.95,
-      "kategorier": [
-          "Bröd & Kakor"
-      ],
-      "beskrivning": "Chokladkakor med vaniljsmakande fyllning. Lika gott till eftermiddagsfikat som till fredagsmyset!",
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/909e2e63-fbc3-4692-b23f-a16fe006e575/1280x1280.webp",
-      "mängd": "154 g",
-      "varumärke": "Oreo",
-      "innehållsförteckning": "VETEMJÖL/HVEDEMEL, socker, palmolja/-olie, rapsolja/-olie, fettreducerad/fedtfattig kakao 4,5%, VETESTÄRKELSE/HVEDESTIVELSE, glukos-fruktossirap, bakpulver/hævemidler (kaliumkarbonater, ammoniumkarbonater, natriumkarbonater),salt, emulgeringsmedel/emulgatorer (SOJALECITIN, solros-/solsikkelecithin), arom.KAN INNEHÅLLA MJÖLK/MÆLK",
-      "jämförelsepris": "201.30 kr/kg",
-      "leverantör": "Out of home"
-  },
-  {
-      "name": "Pasta Spaghetti",
-      "price": 42.95,
-      "kategorier": [
-          "Torrvaror"
-      ],
-      "beskrivning": "Pasta Spaghetti från Barilla är den mest klassiska pastasorten från Italien. Den föddes i Neapel och fick sitt namn redan 1842 av Antonio Vivani, som tyckte att Spaghetti pasta såg ut som små snören. Från början var Spaghetti en extra lång pasta på hela 50 centimeter, men med tiden klipptes den ner till den nuvarande längden på 25 centimeter. Vår Spaghetti är en durumvetepasta som med sin traditionella karaktär har en självklar plats i köket.",
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/282678b0-ce1d-48e1-8118-c1a2309eb561/1280x1280.webp",
-      "mängd": "1000 g",
-      "varumärke": "Barilla",
-      "innehållsförteckning": "Pasta",
-      "jämförelsepris": "42.95 kr/kg",
-      "leverantör": "Axfood"
-  },
-  {
-      "name": "Basmatiris",
-      "price": 99.00,
-      "kategorier": [
-          "Torrvaror"
-      ],
-      "beskrivning": "ICA Basmatiris är ett luftigt, långkornigt ris som inte klibbar. Med sin nötiga smak passar det utmärkt till exempelvis indiska rätter eller rätter med mycket smak. Du kan även smaksätta det för att ha som extra smakrikt tillbehör.",
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/86c21544-39d9-4e49-a1f4-9c0b46f58aa8/1280x1280.webp",
-      "mängd": "2 kg",
-      "varumärke": "ICA",
-      "innehållsförteckning": "Basmatiris, skalat och polerat.",
-      "jämförelsepris": "49.50 kr/kg",
-      "leverantör": "ICA"
-  },
-  {
-      "namn": "Vetemjöl",
-      "beskrivning": "Kungsörnen Vetemjöl från Lantmännen är skapat av fint kärnvete från svenska åkrar.\nKärnvetemjöl är malt och siktat på svenskt höstvete i våra egna kvarnar.\nDu kan använda kärnvetemjöl till allt från mjuka till hårda kakor, redningar, bröd eller bullar.\nEtt utmärkt allroundmjöl helt enkelt!\nDetta mjöl är en del av Lantmännens Klimat& Natur odlingsprogram, ett mjöl som är odlat med lägre klimatpåverkan.\nDet innebär att när du väljer att baka med detta mjöl bidrar du till att Lantmännen kan odla spannmål med mer hållbara metoder.",
-      "pris": 20.95,
-      "kategorier": [
-          "Torrvaror"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/61b2431e-2c4e-4c33-8da6-39aa1b9401da/1280x1280.webp",
-      "mängd": "2 kg",
-      "varumärke": "Kungsörnen",
-      "innehållsförteckning": "kärnVETEmjöl, mjölbehandlingsmedel(askorbinsyra)",
-      "jämförelsepris": "10.48 kr/kg",
-      "leverantör": "Axfood"
-  },
-  {
-      "namn": "Strösocker",
-      "beskrivning": "Strösocker från svenska sockerbetor. Strösocker är ett finkornigt socker som tillverkas av betsocker och benämns som sockerarten sackaros. Strösocker är den mest använda av våra produkter och finns i 2 kg och 1 kg påse.",
-      "pris": 23.90,
-      "kategorier": [
-          "Torrvaror"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0c6f2ddb-6ae4-4191-80ee-5440776299c0/1280x1280.webp",
-      "mängd": "2 kg",
-      "varumärke": "DanSukker",
-      "innehållsförteckning": "Socker",
-      "jämförelsepris": "11.95 kr/kg",
-      "leverantör": "Axfood"
-  },
-  {
-      "namn": "Bryggkaffe Mellanrost Löfbergs",
-      "beskrivning": "LÖFBERGS BRYGGKAFFE MELLANROST ORGINAL är en fyllig och mjuk mellanrost med härlig arom, lätt nötaktig sötma och en behaglig fruktighet i eftersmaken. ROSTNING 2/5 Fyllighet 3/5 Syrlighet 3/5. BRYGGKAFFET är 100% Arabicakaffe från Syd- och Centralamerika samt Östafrika. EN GOD KOPP KAFFE Vi rekommenderar att tillreda Mellanrost Original i en kaffebryggare. Innan du börjar brygga kaffet bör du se till så att bryggutrustningen är ren. För att det ska smaka så gott som möjligt är det viktigt att du doserar rätt, ett kaffemått eller en rågad matsked per kopp, 6-8 g per 1,5 dl. Helst ska vattnet vara mellan 92- 96°C. Om du har en bryggare med för låg temperatur är det bättre att koka upp vattnet och hälla det över kaffet i filterhållaren. HÅLLBARHET PÅ KAFFET. Vi rekommenderar att kaffet förvaras torrt, svalt och mörkt, i sluten ursprungsförpackning. Kaffets smak skadas av syre, exponering av ljus samt fukt som uppstår om kaffet utsätts för temperaturförändringar. Öppnad förpackning bör förbrukas inom 10-14 dagar. NÄR KAFFET ÄR SLUT Av miljöskäl är den arombevarande plasten i förpackningen mycket tunn vilket möjliggörs av det skyddande pappersomslaget. Vår förpackning innehåller dessutom plast från förnybar råvara. Källsortera pappret som pappersförpackning och påsen som plast. Filter och sump sorteras som matavfall och kan komposteras.",
-      "pris": 65.95,
-      "kategorier": [
-          "Dryck"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/dd49bafb-d9e9-4abe-9d81-43a05b622f90/1280x1280.webp",
-      "mängd": "450g",
-      "varumärke": "Lögbergs",
-      "innehållsförteckning": "Kaffe",
-      "jämförelsepris": "146.56 kr/kg",
-      "leverantör": "Axfood"
-  },
-  {
-      "namn": "Grönt te Earl Grey 25-p Twinings",
-      "beskrivning": "Förtjusande citrusdoft av bergamott slingrar sig runt detta utsökta gröna te. Ta dig tid att njuta av en tidslös klassiker, med en charmig twist.",
-      "pris": 35.95,
-      "kategorier": [
-          "Dryck"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/98d2be21-7348-403b-a180-83b2ad6b6b23/1280x1280.webp",
-      "mängd": "25 st",
-      "varumärke": "Twinings",
-      "innehållsförteckning": "Grönt te, aromer",
-      "jämförelsepris": "1.44 kr/st",
-      "leverantör": "Out of home"
-  },
-  {
-      "namn": "Juice Apelsin God Morgon",
-      "beskrivning": "Av solmogna, handplockade apelsiner har vi pressat denna smakrika apelsinjuice sedan slutet av 60-talet. I förpackningen finns juice från 3,5 kg apelsiner. 100% pressad frukt med fruktkött. Perfekt till frukosten",
-      "pris": 33.95,
-      "kategorier": [
-          "Dryck"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8fdae255-62c1-4b6f-a5d5-6ea2d4b850bd/1280x1280.webp",
-      "mängd": "1 l",
-      "varumärke": "God Morgon",
-      "innehållsförteckning": "Apelsinjuice med fruktkött från koncentrat. Pastöriserad",
-      "jämförelsepris": "33.95 kr/l",
-      "leverantör": "Axfood"
-  },
-  {
-      "namn": "Öl 3,5% 33cl 6-p Norrlands Guld",
-      "beskrivning": "Ölet ger en förnimmelse av guldet från det rena norrländska naturen! Norrlands Guld gör sig alldeles utmärkt till grillade kötträtter, men också med bara ett par ölkorvar som tilltugg.Doft: Frisk maltaromatisk doft med moderat inslag av humlearomSmak: Milt öl av Dortmundertyp. Fylligt med viss beska.",
-      "pris": 52.95,
-      "kategorier": [
-          "Dryck"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/53dba8f1-db00-4115-a3dc-751fc8f4ff93/1280x1280.webp",
-      "mängd": "1,98 l",
-      "varumärke": "Norrlands Guld",
-      "innehållsförteckning": "Vatten, kornmalt, humle",
-      "jämförelsepris": "26.70 kr/l",
-      "leverantör": "Menigo"
-  },
-  {
-      "namn": "Merlot Rött vin Alkoholfri 75cl Carl Jung",
-      "beskrivning": "Halvtorrt rödvin utan alkohol. Smaken är fruktig med inslag av björnbär och nötter. Passar särskilt bra till kötträtter och grillat. Gjort av riktigt vin",
-      "pris": 57.95,
-      "kategorier": [
-          "Dryck"
-      ],
-      "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0cb4ac8c-7ede-4b36-ba9a-ecf9c1c51b9b/1280x1280.webp",
-      "mängd": "750 ml",
-      "varumärke": "Carl Jung",
-      "innehållsförteckning": "Avalkoholiserat vin från Spanien, rektifierad koncentrerad druvmust, konserveringsmedel (sulfiter)",
-      "jämförelsepris": "77.27 kr/l",
-      "leverantör": "Menigo"
-  },
-  {
-    "namn": "Äpple Royal Gala",
-      "beskrivning": "Royal Gala äpple från Nya Zeeland",
-      "pris": 6.45,
-      "kategorier": [
-          "Frukter",
-          "Ekologisk"
-      ],
-      "bild": "https://assets.icanet.se/image/upload/cs_srgb/t_product_large_2x_v1/v1668917198/kqyqnnk4xl3hzdewmrpp.webp",
-      "mängd": "Ca 180g",
-      "varumärke": "Royal Gala",
-      "innehållsförteckning": "Äpple",
-      "jämförelsepris": "33,95 kr/kg",
-      "leverantör": "ICA"
-  }
-]
+    {
+        "namn": "Äpple Granny Smith",
+        "beskrivning": "Granny Smith äpple från Nya Zeeland",
+        "pris": 6.45,
+        "kategorier": [
+            "Frukter",
+            "Ekologisk"
+        ],
+        "bild": "https://assets.axfood.se/image/upload/f_auto,t_500/07311042004738_C1C0_s01",
+        "mängd": "Ca 180g",
+        "varumärke": "Granny Smith",
+        "innehållsförteckning": "Äpple",
+        "jämförelsepris": "33,95 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "namn": "Päron Conference",
+        "beskrivning": "Conference päron från Belgien",
+        "pris": 6.15,
+        "kategorier": [
+            "Frukter",
+            "Ekologisk"
+        ],
+        "bild": "https://brondsholm.se/27962-large_default/pron-13cm-grn-konstgjord-frukt.webp",
+        "mängd": "Ca 220g",
+        "varumärke": "Conference",
+        "innehållsförteckning": "Päron",
+        "jämförelsepris": "27,95 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "namn": "Banan Eko",
+        "beskrivning": "gul banan från ecuador",
+        "pris": 4.85,
+        "kategorier": [
+            "Frukter",
+            "Ekologisk"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ba2f23d3-1525-45e7-9163-6a5671156f94/1280x1280.webp",
+        "mängd": "Ca 180g",
+        "varumärke": "Eko",
+        "innehållsförteckning": "Banan",
+        "jämförelsepris": "24,95 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "namn": "Tomat kvist",
+        "beskrivning": "ekologisk röd tomat från Nederländerna",
+        "pris": 5.87,
+        "kategorier": [
+            "Grönsaker",
+            "Ekologisk"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8af94707-5620-444e-9682-5379fa521da4/1280x1280.webp",
+        "mängd": "Ca 250g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Tomat",
+        "jämförelsepris": "48,95 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "namn": "Gurka",
+        "beskrivning": "ekologisk grön gurka från Spanien",
+        "pris": 17.95,
+        "kategorier": [
+            "Grönsaker",
+            "Ekologisk"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1f9e3ec1-11c5-4b89-8487-ce47bf9cb285/1280x1280.webp",
+        "mängd": "Ca 300g",
+        "varumärke": "Eko",
+        "innehållsförteckning": "Gurka",
+        "jämförelsepris": "59.33 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "namn": "Isbergssallat eko",
+        "beskrivning": "ekologisk grön sallad från spanien",
+        "pris": 17.14,
+        "kategorier": [
+            "Grönsaker",
+            "Ekologisk"
+        ],
+        "bild": "https://upload.wikimedia.org/wikipedia/commons/6/69/Iceberg1.jpg",
+        "mängd": "Ca 440g",
+        "varumärke": "Eko",
+        "innehållsförteckning": "Sallat",
+        "jämförelsepris": "38.95 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "namn": "Vitkål",
+        "beskrivning": "Vitkål från sverige",
+        "pris": 24.86,
+        "kategorier": [
+            "Grönsaker"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/4a799b81-56fe-481d-b3da-26fa61c11bc1/1280x1280.webp",
+        "mängd": "Ca 830g",
+        "varumärke": "Eko",
+        "innehållsförteckning": "Vitkål",
+        "jämförelsepris": "29.95 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "namn": "Morötter Tvättade ",
+        "beskrivning": "morot från sverige",
+        "pris": 1.60,
+        "kategorier": [
+            "Grönsaker"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0608191f-4243-4833-84b7-5aa2c5db384a/1280x1280.webp",
+        "mängd": "Ca 100g",
+        "varumärke": "Eko",
+        "innehållsförteckning": "Morot",
+        "jämförelsepris": "15.95 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "namn": "Potatis",
+        "beskrivning": "Potatis från sverige",
+        "pris": 1.90,
+        "kategorier": [
+            "Rotfrukter",
+            "Grönsaker"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/995db740-cceb-4ce9-80e6-26775eaaa704/1280x1280.webp",
+        "mängd": "Ca 100g",
+        "varumärke": "Eko",
+        "innehållsförteckning": "Potatis",
+        "jämförelsepris": "19.95 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "namn": "Apelsin Navel",
+        "beskrivning": "Apelsin från Spanien",
+        "pris": 12.46,
+        "kategorier": [
+            "Frukter"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/63f26021-455f-44f3-a769-ae9b2675bde1/1280x1280.webp",
+        "mängd": "Ca 290g",
+        "varumärke": "Navel",
+        "innehållsförteckning": "Apelsin",
+        "jämförelsepris": "42.95 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "namn": "Kiwi",
+        "beskrivning": "ekologisk grön kiwi från Grekland",
+        "pris": 8.95,
+        "kategorier": [
+            "Frukter",
+            "Ekologisk"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8112bb03-c909-4934-9340-c7d4cf11fb9a/1280x1280.webp",
+        "mängd": "Ca 125g",
+        "varumärke": "Eko",
+        "innehållsförteckning": "Kiwi",
+        "jämförelsepris": "71.95 kr/kg",
+        "leverantör": "Axfood"
+    },
+    {
+        "namn": "Gröna druvor Thompson Seedless ",
+        "beskrivning": "Gröna druvor från Peru",
+        "pris": 39.95,
+        "kategorier": [
+            "Frukter"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/589e51fd-4e21-4ed7-b702-bcc3db3e26d9/1280x1280.webp",
+        "mängd": "Ca 500g",
+        "varumärke": "Thompson Seedless",
+        "innehållsförteckning": "Druvor",
+        "jämförelsepris": "79.90 kr/kg",
+        "leverantör": "Axfood"
+    },
+    {
+        "namn": "Röda druvor Crimson ",
+        "beskrivning": "Röda druvor från Sydafrika",
+        "pris": 30.00,
+        "kategorier": [
+            "Frukter"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/36072ec6-a12b-4c54-a650-ec0f0d799451/1280x1280.webp",
+        "mängd": "Ca 500g",
+        "varumärke": "Crimson",
+        "innehållsförteckning": "Druvor",
+        "jämförelsepris": "60.00 kr/kg",
+        "leverantör": "Axfood"
+    },
+    {
+        "namn": "Persika Paraguayo",
+        "beskrivning": "persika från Chile",
+        "pris": 47.95,
+        "kategorier": [
+            "Frukter"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/44f40999-1e45-4a62-8c32-37d54b25d692/1280x1280.webp",
+        "mängd": "Ca 500g",
+        "varumärke": "Paraguayo",
+        "innehållsförteckning": "Persika",
+        "jämförelsepris": "95.90 kr/kg",
+        "leverantör": "Axfood"
+    },
+    {
+        "namn": "Plommon",
+        "beskrivning": "Röda plommon från Frankrike",
+        "pris": 39.95,
+        "kategorier": [
+            "Frukter"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/470a82e4-adba-4935-9a4a-a22934d2331b/1280x1280.webp",
+        "mängd": "Ca 500g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Plommon",
+        "jämförelsepris": "79.90 kr/kg",
+        "leverantör": "Axfood"
+    },
+    {
+        "namn": "Mango",
+        "beskrivning": "Mango från Peru",
+        "pris": 16.95,
+        "kategorier": [
+            "Frukter",
+            "Exotisk"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1f7e0ef3-591b-4d1c-957a-b69d7952d17b/1280x1280.webp",
+        "mängd": "Ca 660g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Mango",
+        "jämförelsepris": "25.90 kr/kg",
+        "leverantör": "Axfood"
+    },
+    {
+        "namn": "Ananas",
+        "beskrivning": "färsk ananas från Costa Rica",
+        "pris": 29.95,
+        "kategorier": [
+            "Frukter",
+            "Exotisk"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/6fd0f513-ed71-483f-aca2-d3e3455ba623/200x200.webp",
+        "mängd": "Ca 950g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Ananas",
+        "jämförelsepris": "31.58 kr/kg",
+        "leverantör": "Axfood"
+    },
+    {
+        "namn": "Paprika Röd",
+        "beskrivning": "Röd paprika från Nederländerna",
+        "pris": 15.74,
+        "kategorier": [
+            "Grönsaker"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/3cba6228-df72-405d-a1b9-4a76fd42d4c6/1280x1280.webp",
+        "mängd": "Ca 225g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Paprika",
+        "jämförelsepris": "69.95 kr/kg",
+        "leverantör": "Axfood"
+    },
+    {
+        "namn": "Paprika Gul",
+        "beskrivning": "Gul paprika från Nederländerna",
+        "pris": 12.59,
+        "kategorier": [
+            "Grönsaker"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/1439859e-a140-4472-a46d-e1b3c5743930/1280x1280.webp",
+        "mängd": "Ca 180g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Paprika",
+        "jämförelsepris": "69.95 kr/kg",
+        "leverantör": "Axfood"
+    },
+    {
+        "namn": "sötpotatis",
+        "beskrivning": "Sötpotatis från Spanien",
+        "pris": 10.48,
+        "kategorier": [
+            "Rotfrukter",
+            "Grönsaker"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/ebba5794-843f-4e7c-97c1-461b3e4e831f/200x200.webp",
+        "mängd": "Ca 350g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Sötpotatis",
+        "jämförelsepris": "29.95 kr/kg",
+        "leverantör": "Axfood"
+    },
+    {
+        "namn": "Babyspenat Ekologisk ",
+        "beskrivning": "ekologisk spenat från Spanien",
+        "pris": 17.95,
+        "kategorier": [
+            "Grönsaker",
+            "Ekologisk"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/7de47a42-6270-4590-bf8b-0551defa358e/1280x1280.webp",
+        "mängd": "Ca 65g",
+        "varumärke": "Eko",
+        "innehållsförteckning": "Spenat",
+        "jämförelsepris": "276.92 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "namn": "Broccoli",
+        "beskrivning": "färsk broccoli från Spanien",
+        "pris": 16.95,
+        "kategorier": [
+            "Grönsaker"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d9cdd9c5-4c95-41c6-9c59-7b6a82df9ac9/200x200.webp",
+        "mängd": "Ca 250g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Broccoli",
+        "jämförelsepris": "67.80 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "namn": "Blomkål",
+        "beskrivning": "Blomkål från Sverige",
+        "pris": 29.66,
+        "kategorier": [
+            "Grönsaker"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/15d2eb49-50fe-4a5b-b7cf-5243e7dd68d6/200x200.webp",
+        "mängd": "Ca 900g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Blomkål",
+        "jämförelsepris": "32.95 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "namn": "Aubergine",
+        "beskrivning": "Aubergine från Spanien",
+        "pris": 13.95,
+        "kategorier": [
+            "Grönsaker"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/da601c97-8736-4da6-8949-106520548922/200x200.webp",
+        "mängd": "Ca 225g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Aubergine",
+        "jämförelsepris": "61.95 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "namn": "Zucchini",
+        "beskrivning": "grön zucchini från Sverige",
+        "pris": 17.04,
+        "kategorier": [
+            "Grönsaker"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/f4f05c9b-d9ad-405d-a325-ae3531173679/200x200.webp",
+        "mängd": "Ca 275g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Zucchini",
+        "jämförelsepris": "61.95 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "namn": "Lök gul",
+        "beskrivning": "gul lök från Sverige",
+        "pris": 2.33,
+        "kategorier": [
+            "Grönsaker"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/02c14025-a793-4534-a041-6b1b50cc4e34/200x200.webp",
+        "mängd": "Ca 180g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Lök",
+        "jämförelsepris": "12.95 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "namn": "Vitlök Morado",
+        "beskrivning": "Färsk vitlök från Spanien",
+        "pris": 12.95,
+        "kategorier": [
+            "Grönsaker"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0647ad9b-1763-47c1-b654-9e5959dd7e78/200x200.webp",
+        "mängd": "Ca 75g",
+        "varumärke": "Morado",
+        "innehållsförteckning": "Vitlök",
+        "jämförelsepris": "172.67 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "namn": "Ärtor Findus",
+        "beskrivning": "Findus Svenska Ärter kommer ifrån vår egna ärtsort Ebba som odlas i Dalsland. Ebba-ärterna är smakrika och är alldeles extra söta. Ärterna fryses ned kort efter att de skördats, och gör att ärterna behåller sin ljuvliga sötma och näringsvärde så att du kan njuta av ärterna året om. Findus Ärter innehåller fibrer, protein och C-vitaminer som hjälper till att göra varje måltid hälsosammare. Upplev ärterna i en klassisk ärtsoppa eller varför inte en i en nyttig smoothie till frukosten. För att få en riklig skörd med de bästa ärterna är processen innan noggrant planerad, och Findus ser alltid till att det sker med minsta möjliga klimatpåverkan. Med lång erfarenhet inom odling vet Findus hur man väljer ut de bästa åkrarna, plantorna och tid för sådd. Tips! Om du gillar Findus Ärter så finns en större förpackning att köpa.",
+        "pris": 26.95,
+        "kategorier": [
+            "Grönsaker",
+            "Frysta"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/b89cd7e6-9615-4dc5-b28c-0dc6276136d8/200x200.webp",
+        "mängd": "Ca 600g",
+        "varumärke": "Findus",
+        "innehållsförteckning": "Ärter. Klimatcertifierad Svenskt Sigill-råvara",
+        "jämförelsepris": "44.92 kr/kg",
+        "leverantör": "Out of home"
+    },
+    {
+        "namn": " Vita bönor",
+        "beskrivning": "Heinz Vita bönor lanserades redan 1905, bönor är både mättande och dessutom mycket nyttiga. Våra klassiska Heinz Bönor är milt kryddade och tillreds med tomatsås. En standardingrediens både i Chili con carne och en äkta Engelsk frukost, där Heinz Bönor serveras tillsammans med rostat bröd, ägg, bacon och olika sorters korvar.",
+        "pris": 11.95,
+        "kategorier": [
+            "Grönsaker",
+            "Konserverat"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8155124c-3544-485b-9c97-127f1bb4894a/200x200.webp",
+        "mängd": "Ca 415g",
+        "varumärke": "Heinz",
+        "innehållsförteckning": "Bönor (50%), vatten, tomatpuré (15%), socker, modifierad majsstärkelse, ättika, salt, krydd- och örtextrakt",
+        "jämförelsepris": "28.75 kr/kg",
+        "leverantör": "Out of home"
+    },
+    {
+        "namn": "Majs 3 pack Green Giant",
+        "beskrivning": "Majs från Green Giant",
+        "pris": 28.95,
+        "kategorier": [
+            "Grönsaker",
+            "Konserverat"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/2405bef0-e996-48d3-a129-93cdab1fb2ff/1280x1280.webp",
+        "mängd": "Ca 480g",
+        "varumärke": "Green Giant",
+        "innehållsförteckning": "Majs (70%), vatten, socker, salt, konserveringsmedel (E211)",
+        "jämförelsepris": "60.21 kr/kg",
+        "leverantör": "Out of home"
+    },
+    {
+        "namn": "Finkrossade Tomater Mutti",
+        "beskrivning": "Finkrossade tomater från Mutti",
+        "pris": 43.95,
+        "kategorier": [
+            "Grönsaker",
+            "Konserverat"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/70864b9e-d541-400a-b135-b5c77102181a/1280x1280.webp",
+        "mängd": "Ca 1200g",
+        "varumärke": "Mutti",
+        "innehållsförteckning": "Finkrossade tomater (99%), salt, konserveringsmedel (E211)",
+        "jämförelsepris": "36.58 kr/kg",
+        "leverantör": "Out of home"
+    },
+    {
+        "name": "Nötfärs",
+        "price": 73.95,
+        "kategorier": [
+            "Kött"
+        ],
+        "beskrivning": "nötfärs från Sverige",
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/4cbf0adc-add3-4ede-b8b7-4ed6dddc6517/1280x1280.webp",
+        "mängd": "500g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Nötfärs",
+        "jämförelsepris": "147.49 kr/kg",
+        "leverantör": "Menigo"
+    },
+    {
+        "name": "kycklingfilé",
+        "price": 119,
+        "kategorier": [
+            "Kött"
+        ],
+        "beskrivning": "färsk kycklingfilé från Sverige",
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/7724614a-a404-4702-b2d6-40559b6635d9/1280x1280.webp",
+        "mängd": "1000 g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Kycklingfilé",
+        "jämförelsepris": "119.00 kr/kg",
+        "leverantör": "Menigo"
+    },
+    {
+        "name": "Blandfärs",
+        "price": 172.80,
+        "kategorier": [
+            "Kött"
+        ],
+  
+        "beskrivning": "Blandfärs från sverige",
+        "bild": "https://d1ax460061ulao.cloudfront.net/1000x1000/7/d/7ddf43d755f8a1afb00327967d7912f9.jpg",
+        "mängd": "1600 g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Blandfärs",
+        "jämförelsepris": "108.00 kr/kg",
+        "leverantör": "Menigo"
+    },
+    {
+        "name": "Kycklinglårfilé Färsk",
+        "price": 112,
+        "kategorier": [
+            "Kött"
+        ],
+        "beskrivning": "Kyckling från sverige",
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/dc3489cc-f1b8-4e15-82fa-4185c85a538e/1280x1280.webp",
+        "mängd": "720 g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Kycklinglårfile",
+        "jämförelsepris": "155.56 kr/kg",
+        "leverantör": "Menigo"
+    },
+    {
+        "name": "Fläskytterfilé",
+        "price": 114.00,
+        "kategorier": [
+            "Kött"
+        ],
+        "beskrivning": "Fläskkött från sverige",
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/bbb85b82-8bc6-4922-8e37-03c64dc4d172/1280x1280.webp",
+        "mängd": "1000 g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Fläskytterfilé",
+        "jämförelsepris": "114.56 kr/kg",
+        "leverantör": "Menigo"
+    },
+    {
+        "name": "Lax",
+        "price": 327,
+        "kategorier": [
+            "Fisk"
+        ],
+        "beskrivning": "Lax från norge",
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/c4c42a74-005f-4fdf-90b0-3afbfb5d83f3/1280x1280.webp",
+        "mängd": "1200 g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Lax",
+        "jämförelsepris": "273.50 kr/kg",
+        "leverantör": "Kvalitet fisk"
+    },
+    {
+        "name": "Räkor",
+        "price": 92.95,
+        "kategorier": [
+            "Fisk"
+        ],
+        "beskrivning": "Räkor från sverige",
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/efed4b15-73b2-408b-bf45-305d2b2bd0e7/1280x1280.webp",
+        "mängd": "500 g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Räkor",
+        "jämförelsepris": "185.90 kr/kg",
+        "leverantör": "Kvalitet fisk"
+    },
+    {
+        "name": "Tonfisk i vatten",
+        "price": 25.95,
+        "kategorier": [
+            "Fisk"
+        ],
+        "beskrivning": "Tonfisk från norge",
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/e94afe56-cf8c-48c3-be1e-5069eb772bd7/1280x1280.webp",
+        "mängd": "120 g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Tonfisk",
+        "jämförelsepris": "216.25 kr/kg",
+        "leverantör": "Kvalitet fisk"
+    },
+    {
+        "name": "Standard Mjölk",
+        "price": 22.95,
+        "kategorier": [
+            "Mejeri"
+        ],
+        "beskrivning": "ICA Standardmjölk är en fyllig och god mjölk med 3% fetthalt. Den passar att dricka till dagens alla måltider, är särskilt god till kakor och nästan en nödvändighet till sommarens jordgubbar. Dessutom kan du baka med den.",
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/da71234d-3ba8-4aa7-8334-f0ddf47c4d1e/1280x1280.webp",
+        "mängd": "1,5 l",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Högpastöriserad MJÖLK*, vitamin D.",
+        "jämförelsepris": "22.95 kr/l",
+        "leverantör": "ICA"
+    },
+    {
+        "name": "Hushållsost",
+        "price": 325.60,
+        "kategorier": [
+            "Mejeri"
+        ],
+        "beskrivning": "Arla® Hushållsost är Sveriges mest populära hårdost! Osten uppskattas för sin milda, gräddiga och lätt syrliga smak och den härliga, runda formen gör den perfekt att ställa fram och dela. Hushållsost äts främst som pålägg men är passar perfekt i matlagning och som tilltugg. Vår Hushållsost är tillverkad i Vium, Danmark, på mjölk från danska Arlagårdar.",
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/c54dd1e6-b1fb-4c47-9d13-40ce7e06e0c4/1280x1280.webp",
+        "mängd": "2200 g",
+        "varumärke": "Arla",
+        "innehållsförteckning": "Pastöriserad MJÖLK, salt, syrningskultur, ystenzym.",
+        "jämförelsepris": "148.00 kr/kg",
+        "leverantör": "Arla"
+    },
+    {
+        "name": "Yoghurt Vanilj",
+        "price": 36.95,
+        "kategorier": [
+            "Mejeri"
+        ],
+        "beskrivning": "Mild vaniljyoghurt med en len och krämig konsistens kombinerat med en fin, mjuk smak. Arla Ko® Mild yoghurt vanilj 2% räddar både frukost och mellanmål för hela familjen. God som den är, kombinera gärna med dina favorittillbehör som müsli, flingor, frukt eller bär. Vaniljyoghurt är en perfekt bas till smoothies. När du ser Arla Ko vet du att produkten görs på 100 procent svensk mjölk. I en praktisk förpackning som är enkel att förvara, hälla ur, tömma och återvinna.",
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/45241a7f-b21f-492f-a2da-f7bc09e9f9be/1280x1280.webp",
+        "mängd": "1500 g",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Högpastöriserad MJÖLK, socker 5%, MJÖLKPROTEIN, naturlig arom, vaniljextrakt, mild yoghurtkultur, vitamin D.",
+        "jämförelsepris": "24.63 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "name": "Glass Sea Salt Caramel",
+        "price": 58.95,
+        "kategorier": [
+            "Mejeri"
+        ],
+        "beskrivning": "Gräddig karamellglass med en swirl av karamell och havssalt. Passande för lågkolhydratskost, keto och diabetes men främst för alla som vill njuta och må bra på samma gång. No added sugar, no palm oil, just joy.",
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/5c805be1-1f7e-4b26-8aa6-2e4551ad0e33/1280x1280.webp",
+        "mängd": "0.473 l",
+        "varumärke": "Nick's",
+        "innehållsförteckning": "Koncentrerad skumMJÖLK/MÆLK, polydextros (fiber), sötningsmedel (xylitol), sötningsmedel (erytritol), MJÖLK/MÆLKprotein, GRÄDDE/KREM/FLØDE, vegetabilisk olja (kokos), löslig/oppløselig majsfiber, sötningsmedel (sorbitol), naturlig arom, modifierad stärkelse, (havs-) salt, fuktighetsbevarande medel (glycerol), stabiliseringsmedel (fruktkärnmjöl, guarkärnmjöl, karragenan), emulgeringsmedel (mono- och diglycerider av fettsyror), sötningsmedel (steviolglykosider), färgämnen (betakaroten, sockerkulör). Kan innehålla spår av GLUTEN, ÄGG, SOJA, SESAM, NÖTTER och JORDNÖTTER/PEANØTTER.",
+        "jämförelsepris": "156.34 kr/l",
+        "leverantör": "Nick's"
+    },
+    {
+        "name": "Tortillabröd Original 12-pack",
+        "price": 54.95,
+        "kategorier": [
+            "Bröd & Kakor"
+        ],
+        "beskrivning": "Mjuka tortillabröd av vete, storlek Large. En tortilla i en storlek som gör det enkelt att laga Tex Mex och mexikansk mat till familj och vänner. Santa Maria Tortilla Original Large är tortillas som passar till wraps, burritos, quesadillas och tacos. Denna tortilla går att njuta varm som kall, perfekt för utflykter, kalas, fest och fredagsmys.• En förpackning innehåller 12st tortillabröd, storlek Large• Santa Maria Tortilla Original finns även i storlek Small och Medium• Utan tillsatt socker • Tortillabröd går utmärkt att frysa• Lämplig även för vegan och vegetarisk matlagning.",
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/751165b5-3cc3-4f47-a345-e1d0bc251fb8/1280x1280.webp",
+        "mängd": "742 g",
+        "varumärke": "Santa Maria",
+        "innehållsförteckning": "VETEMJÖL (72%), vatten, rapsolja, fuktighetsbevarande medel (E422), salt, emulgeringsmedel (E471), bakpulver (natriumkarbonater), surhetsreglerande medel (citronsyra), sockerbetsfiber.",
+        "jämförelsepris": "74.00 kr/kg",
+        "leverantör": "Menigo"
+    },
+    {
+        "name": "Kex Original",
+        "price": 22.95,
+        "kategorier": [
+            "Bröd & Kakor"
+        ],
+        "beskrivning": "Ballerina är Sveriges mest älskade kaka och Göteborgs Kex populäraste varumärke. Det runda originalet har funnits sedan 1963. Oemotståndliga kakor med spröda kex och len nougatkräm. Nu med 25% mer fyllning för ännu godare smak. Givna kakor till fikat, kalaset eller utflykten! Ballerinas produkter är bakade utan palmolja.",
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/816f20ed-9e18-48c6-9186-cbe2f0c33a81/1280x1280.webp",
+        "mängd": "205 g",
+        "varumärke": "Ballerina",
+        "innehållsförteckning": "VETEMJÖL/HVEDEMEL, nougatfyllning 35 % (socker, fullhärdat kokosfett, vasslepulver/vallepulver från MJÖLK/MÆLK, HASSELNÖTTER/HASSELNØDDER 10 %, fettreducerat kakaopulver, emulgeringsmedel (SOJALECITIN), arom), socker, solrosolja/solsikkeolie, fettreducerat kakaopulver, bakpulver/hævemiddel (natriumbikarbonat, hjorthornssalt E503), invertsocker, salt, emulgeringsmedel (SOJALECITIN), arom (vanillin), KORNMALT/BYGMALT.",
+        "jämförelsepris": "112.20 kr/kg",
+        "leverantör": "Out of home"
+    },
+    {
+        "name": "Oreo Original 154g",
+        "price": 30.95,
+        "kategorier": [
+            "Bröd & Kakor"
+        ],
+        "beskrivning": "Chokladkakor med vaniljsmakande fyllning. Lika gott till eftermiddagsfikat som till fredagsmyset!",
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/909e2e63-fbc3-4692-b23f-a16fe006e575/1280x1280.webp",
+        "mängd": "154 g",
+        "varumärke": "Oreo",
+        "innehållsförteckning": "VETEMJÖL/HVEDEMEL, socker, palmolja/-olie, rapsolja/-olie, fettreducerad/fedtfattig kakao 4,5%, VETESTÄRKELSE/HVEDESTIVELSE, glukos-fruktossirap, bakpulver/hævemidler (kaliumkarbonater, ammoniumkarbonater, natriumkarbonater),salt, emulgeringsmedel/emulgatorer (SOJALECITIN, solros-/solsikkelecithin), arom.KAN INNEHÅLLA MJÖLK/MÆLK",
+        "jämförelsepris": "201.30 kr/kg",
+        "leverantör": "Out of home"
+    },
+    {
+        "name": "Pasta Spaghetti",
+        "price": 42.95,
+        "kategorier": [
+            "Torrvaror"
+        ],
+        "beskrivning": "Pasta Spaghetti från Barilla är den mest klassiska pastasorten från Italien. Den föddes i Neapel och fick sitt namn redan 1842 av Antonio Vivani, som tyckte att Spaghetti pasta såg ut som små snören. Från början var Spaghetti en extra lång pasta på hela 50 centimeter, men med tiden klipptes den ner till den nuvarande längden på 25 centimeter. Vår Spaghetti är en durumvetepasta som med sin traditionella karaktär har en självklar plats i köket.",
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/282678b0-ce1d-48e1-8118-c1a2309eb561/1280x1280.webp",
+        "mängd": "1000 g",
+        "varumärke": "Barilla",
+        "innehållsförteckning": "Pasta",
+        "jämförelsepris": "42.95 kr/kg",
+        "leverantör": "Axfood"
+    },
+    {
+        "name": "Basmatiris",
+        "price": 99.00,
+        "kategorier": [
+            "Torrvaror"
+        ],
+        "beskrivning": "ICA Basmatiris är ett luftigt, långkornigt ris som inte klibbar. Med sin nötiga smak passar det utmärkt till exempelvis indiska rätter eller rätter med mycket smak. Du kan även smaksätta det för att ha som extra smakrikt tillbehör.",
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/86c21544-39d9-4e49-a1f4-9c0b46f58aa8/1280x1280.webp",
+        "mängd": "2 kg",
+        "varumärke": "ICA",
+        "innehållsförteckning": "Basmatiris, skalat och polerat.",
+        "jämförelsepris": "49.50 kr/kg",
+        "leverantör": "ICA"
+    },
+    {
+        "namn": "Vetemjöl",
+        "beskrivning": "Kungsörnen Vetemjöl från Lantmännen är skapat av fint kärnvete från svenska åkrar.\nKärnvetemjöl är malt och siktat på svenskt höstvete i våra egna kvarnar.\nDu kan använda kärnvetemjöl till allt från mjuka till hårda kakor, redningar, bröd eller bullar.\nEtt utmärkt allroundmjöl helt enkelt!\nDetta mjöl är en del av Lantmännens Klimat& Natur odlingsprogram, ett mjöl som är odlat med lägre klimatpåverkan.\nDet innebär att när du väljer att baka med detta mjöl bidrar du till att Lantmännen kan odla spannmål med mer hållbara metoder.",
+        "pris": 20.95,
+        "kategorier": [
+            "Torrvaror"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/61b2431e-2c4e-4c33-8da6-39aa1b9401da/1280x1280.webp",
+        "mängd": "2 kg",
+        "varumärke": "Kungsörnen",
+        "innehållsförteckning": "kärnVETEmjöl, mjölbehandlingsmedel(askorbinsyra)",
+        "jämförelsepris": "10.48 kr/kg",
+        "leverantör": "Axfood"
+    },
+    {
+        "namn": "Strösocker",
+        "beskrivning": "Strösocker från svenska sockerbetor. Strösocker är ett finkornigt socker som tillverkas av betsocker och benämns som sockerarten sackaros. Strösocker är den mest använda av våra produkter och finns i 2 kg och 1 kg påse.",
+        "pris": 23.90,
+        "kategorier": [
+            "Torrvaror"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0c6f2ddb-6ae4-4191-80ee-5440776299c0/1280x1280.webp",
+        "mängd": "2 kg",
+        "varumärke": "DanSukker",
+        "innehållsförteckning": "Socker",
+        "jämförelsepris": "11.95 kr/kg",
+        "leverantör": "Axfood"
+    },
+    {
+        "namn": "Bryggkaffe Mellanrost Löfbergs",
+        "beskrivning": "LÖFBERGS BRYGGKAFFE MELLANROST ORGINAL är en fyllig och mjuk mellanrost med härlig arom, lätt nötaktig sötma och en behaglig fruktighet i eftersmaken. ROSTNING 2/5 Fyllighet 3/5 Syrlighet 3/5. BRYGGKAFFET är 100% Arabicakaffe från Syd- och Centralamerika samt Östafrika. EN GOD KOPP KAFFE Vi rekommenderar att tillreda Mellanrost Original i en kaffebryggare. Innan du börjar brygga kaffet bör du se till så att bryggutrustningen är ren. För att det ska smaka så gott som möjligt är det viktigt att du doserar rätt, ett kaffemått eller en rågad matsked per kopp, 6-8 g per 1,5 dl. Helst ska vattnet vara mellan 92- 96°C. Om du har en bryggare med för låg temperatur är det bättre att koka upp vattnet och hälla det över kaffet i filterhållaren. HÅLLBARHET PÅ KAFFET. Vi rekommenderar att kaffet förvaras torrt, svalt och mörkt, i sluten ursprungsförpackning. Kaffets smak skadas av syre, exponering av ljus samt fukt som uppstår om kaffet utsätts för temperaturförändringar. Öppnad förpackning bör förbrukas inom 10-14 dagar. NÄR KAFFET ÄR SLUT Av miljöskäl är den arombevarande plasten i förpackningen mycket tunn vilket möjliggörs av det skyddande pappersomslaget. Vår förpackning innehåller dessutom plast från förnybar råvara. Källsortera pappret som pappersförpackning och påsen som plast. Filter och sump sorteras som matavfall och kan komposteras.",
+        "pris": 65.95,
+        "kategorier": [
+            "Dryck"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/dd49bafb-d9e9-4abe-9d81-43a05b622f90/1280x1280.webp",
+        "mängd": "450g",
+        "varumärke": "Lögbergs",
+        "innehållsförteckning": "Kaffe",
+        "jämförelsepris": "146.56 kr/kg",
+        "leverantör": "Axfood"
+    },
+    {
+        "namn": "Grönt te Earl Grey 25-p Twinings",
+        "beskrivning": "Förtjusande citrusdoft av bergamott slingrar sig runt detta utsökta gröna te. Ta dig tid att njuta av en tidslös klassiker, med en charmig twist.",
+        "pris": 35.95,
+        "kategorier": [
+            "Dryck"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/98d2be21-7348-403b-a180-83b2ad6b6b23/1280x1280.webp",
+        "mängd": "25 st",
+        "varumärke": "Twinings",
+        "innehållsförteckning": "Grönt te, aromer",
+        "jämförelsepris": "1.44 kr/st",
+        "leverantör": "Out of home"
+    },
+    {
+        "namn": "Juice Apelsin God Morgon",
+        "beskrivning": "Av solmogna, handplockade apelsiner har vi pressat denna smakrika apelsinjuice sedan slutet av 60-talet. I förpackningen finns juice från 3,5 kg apelsiner. 100% pressad frukt med fruktkött. Perfekt till frukosten",
+        "pris": 33.95,
+        "kategorier": [
+            "Dryck"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/8fdae255-62c1-4b6f-a5d5-6ea2d4b850bd/1280x1280.webp",
+        "mängd": "1 l",
+        "varumärke": "God Morgon",
+        "innehållsförteckning": "Apelsinjuice med fruktkött från koncentrat. Pastöriserad",
+        "jämförelsepris": "33.95 kr/l",
+        "leverantör": "Axfood"
+    },
+    {
+        "namn": "Öl 3,5% 33cl 6-p Norrlands Guld",
+        "beskrivning": "Ölet ger en förnimmelse av guldet från det rena norrländska naturen! Norrlands Guld gör sig alldeles utmärkt till grillade kötträtter, men också med bara ett par ölkorvar som tilltugg.Doft: Frisk maltaromatisk doft med moderat inslag av humlearomSmak: Milt öl av Dortmundertyp. Fylligt med viss beska.",
+        "pris": 52.95,
+        "kategorier": [
+            "Dryck"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/53dba8f1-db00-4115-a3dc-751fc8f4ff93/1280x1280.webp",
+        "mängd": "1,98 l",
+        "varumärke": "Norrlands Guld",
+        "innehållsförteckning": "Vatten, kornmalt, humle",
+        "jämförelsepris": "26.70 kr/l",
+        "leverantör": "Menigo"
+    },
+    {
+        "namn": "Merlot Rött vin Alkoholfri 75cl Carl Jung",
+        "beskrivning": "Halvtorrt rödvin utan alkohol. Smaken är fruktig med inslag av björnbär och nötter. Passar särskilt bra till kötträtter och grillat. Gjort av riktigt vin",
+        "pris": 57.95,
+        "kategorier": [
+            "Dryck"
+        ],
+        "bild": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/0cb4ac8c-7ede-4b36-ba9a-ecf9c1c51b9b/1280x1280.webp",
+        "mängd": "750 ml",
+        "varumärke": "Carl Jung",
+        "innehållsförteckning": "Avalkoholiserat vin från Spanien, rektifierad koncentrerad druvmust, konserveringsmedel (sulfiter)",
+        "jämförelsepris": "77.27 kr/l",
+        "leverantör": "Menigo"
+    },
+    {
+      "namn": "Äpple Royal Gala",
+        "beskrivning": "Royal Gala äpple från Nya Zeeland",
+        "pris": 6.45,
+        "kategorier": [
+            "Frukter",
+            "Ekologisk"
+        ],
+        "bild": "https://assets.icanet.se/image/upload/cs_srgb/t_product_large_2x_v1/v1668917198/kqyqnnk4xl3hzdewmrpp.webp",
+        "mängd": "Ca 180g",
+        "varumärke": "Royal Gala",
+        "innehållsförteckning": "Äpple",
+        "jämförelsepris": "33,95 kr/kg",
+        "leverantör": "ICA"
+    }
+  ]
